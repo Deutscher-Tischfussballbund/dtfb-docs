@@ -10,7 +10,7 @@ date: 18.10.2020
     </div>
 
     <p style="text-align: center;">
-        Gültiger Stand vom 18.10.2020
+       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
     </p>
     <p>
         <a href="./../assets/pdf/satzung.pdf" target="_blank">Download als PDF</a><br />
