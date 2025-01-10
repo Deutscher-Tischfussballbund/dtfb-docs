@@ -1,8 +1,5 @@
 # Verbandsdokumente
 
-- [Satzung](docs/satzung.md)
-- [Spielordnung](docs/spielordnung.md)
-- [Gebührenordnung](docs/gebuehrenordnung.md)
 - [Ehrenordnung](docs/Ehrenordnung.md)
 - [Geschäftsordnung](docs/Geschaeftsordnung.md)
 - [Leitfaden des Schiedsgerichts](docs/Leitfaden des Schiedsgerichts.md)
