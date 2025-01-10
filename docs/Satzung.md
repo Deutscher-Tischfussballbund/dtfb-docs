@@ -34,36 +34,6 @@ date: 18.10.2020
 
 ---
 
-## Inhaltsverzeichnis
-
-1. [Name, Rechtsform und Sitz](#name-rechtsform-und-sitz)
-2. [Zweck](#zweck)
-3. [Aufgaben](#aufgaben)
-4. [Gemeinnützigkeit](#gemeinnützigkeit)
-5. [Mitgliedschaft](#mitgliedschaft)
-6. [Aufnahme](#aufnahme)
-7. [Landestischfussballverbände und Interessengemeinschaften](#landestischfussballverb%C3%A4nde-und-interessengemeinschaften)
-8. [Mitgliedschaftsrechte und Mitgliedschaftspflichten](#mitgliedschaftsrechte-und-mitgliedschaftspflichten)
-9. [Mitgliedsbeiträge, Kautionen und Gebühren](#mitgliedsbeitr%C3%A4ge-kautionen-und-geb%C3%BChren)
-10. [Beendigung der Mitgliedschaft](#beendigung-der-mitgliedschaft)
-11. [Organe des Bundes](#organe-des-bundes)
-    - [Mitgliederversammlung](#mitgliederversammlung)
-    - [Beschlussfassung der Mitgliederversammlung](#beschlussfassung-der-mitgliederversammlung)
-    - [Präsidium](#pr%C3%A4sidium)
-    - [Aufgaben des Präsidiums](#aufgaben-des-pr%C3%A4sidiums)
-    - [Präsidentenrunde](#pr%C3%A4sidentenrunde)
-12. [Ausschüsse und Beauftragte](#aussch%C3%BCsse-und-beauftragte)
-13. [Sportjugend](#sportjugend)
-14. [Schiedsgericht](#schiedsgericht)
-15. [Gremien](#gremien)
-16. [Ordnungen](#ordnungen)
-17. [Auflösung](#aufl%C3%B6sung)
-18. [Schadenshaftung](#schadenshaftung)
-19. [Datenschutzerklärung](#datenschutzerkl%C3%A4rung)
-20. [Inkrafttreten](#inkrafttreten)
-
----
-
 ## Name, Rechtsform und Sitz
 
 Der Verein führt den Namen **„Deutscher Tischfussballbund e. V. (DTFB)“**.  
