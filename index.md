@@ -1,9 +1,9 @@
 # Verbandsdokumente
 
-- [Ehrenordnung](docs/Ehrenordnung.md)
-- [Geschäftsordnung](docs/Geschaeftsordnung.md)
-- [Leitfaden des Schiedsgerichts](docs/Leitfaden des Schiedsgerichts.md)
-- [Regelungen für Speedball und Classic](docs/Regelungen_fuer_Speedball_und_Classic.md)
-- [Satzung](docs/Satzung.md)
-- [Schiedsrichterordnung](docs/Schiedsrichterordnung.md)
-- [Spielordnung](docs/Spielordnung.md)
+- [Ehrenordnung](docs/ehrenordnung.md)
+- [Geschäftsordnung](docs/geschaeftsordnung.md)
+- [Leitfaden des Schiedsgerichts](docs/leitfaden_des_schiedsgerichts.md)
+- [Regelungen für Speedball und Classic](docs/regelungen_fuer_speedball_und_classic.md)
+- [Satzung](docs/satzung.md)
+- [Schiedsrichterordnung](docs/schiedsrichterordnung.md)
+- [Spielordnung](docs/spielordnung.md)
