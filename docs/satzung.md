@@ -1,7 +1,7 @@
 ---
 title: "Satzung des DTFB e. V."
 author: "![dtfb Logo](images/dtfb-logo.png)"
-date: 18.10.2020
+date: {{ site.time | date: "%d-%m-%Y" }}
 ---
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">
