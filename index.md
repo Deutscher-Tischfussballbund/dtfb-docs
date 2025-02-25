@@ -18,6 +18,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 - [](./)
 - [](./)
+- [Challenger Ausschreibung](./assets/pdf/Challenger_Ausschreibung_Vorlage.pdf)
 - [](./)
 
 # Bundesliga - für alle gültig
