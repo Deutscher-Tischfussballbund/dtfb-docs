@@ -7,3 +7,34 @@
 - [Satzung](docs/satzung.md)
 - [Schiedsrichterordnung](docs/schiedsrichterordnung.md)
 - [Spielordnung](docs/spielordnung.md)
+
+
+# Regelwerk
+Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der ITSF-Webseite.
+
+- [Vereinfachtes Regelwerk](./assets/pdf/Regelwerk_vereinfacht.pdf)
+
+# Turniere
+
+- [](./)
+- [](./)
+- [](./)
+
+# Bundesliga - für alle gültig
+
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
