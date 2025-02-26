@@ -25,7 +25,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 - [](./)
 - [](./)
-- [](./)
+- [Mannschaftsmeldefomular](./assets/pdf/Formular_Mannschaftsmeldung.pdf)
 - [](./)
 - [](./)
 - [](./)
