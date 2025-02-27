@@ -33,7 +33,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 - [FAQ Trikos](./assets/pdf/FAQ_Trikot.pdf)
 - [](./)
 - [](./)
-- [](./)
+- [dtfl badge 50x76mm](./assets/pdf/dtfl-badge-50x76mm.pdf)
 - [Spielplan Bundesliga Herren und Damen](./assets/pdf/Bundesliga_Spielplan.pdf)
 - [Spielformular SeniorenBundesliga](./assets/pdf/Spielformular_SeniorenBundesliga.pdf)
 - [](./)
