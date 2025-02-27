@@ -35,7 +35,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 - [](./)
 - [](./)
 - [Spielplan Bundesliga Herren und Damen](./assets/pdf/Bundesliga_Spielplan.pdf)
-- [](./)
+- [Spielformular SeniorenBundesliga](./assets/pdf/Spielformular_SeniorenBundesliga.pdf)
 - [](./)
 - [](./)
 - [](./)
