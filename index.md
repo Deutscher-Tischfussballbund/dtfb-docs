@@ -16,7 +16,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 # Turniere
 
-- [](./)
+- [Ranglistenturnierordnung](docs/Ranglistenturnierordnung.md)
 - [](./)
 - [Challenger Ausschreibung](./assets/pdf/Challenger_Ausschreibung_Vorlage.pdf)
 - [](./)
