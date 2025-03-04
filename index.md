@@ -19,7 +19,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 - [Ranglistenturnierordnung](docs/Ranglistenturnierordnung.md)
 - [](./)
 - [Challenger Ausschreibung](./assets/pdf/Challenger_Ausschreibung_Vorlage.pdf)
-- [](./)
+- [Tunierkonzept für Landesverbände](./assets/pdf/Turnierkonzept_fr_Landesverbaende.pdf)
 
 # Bundesliga - für alle gültig
 
