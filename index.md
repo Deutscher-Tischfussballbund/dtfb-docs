@@ -23,7 +23,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 # Bundesliga - für alle gültig
 
-- [](./)
+- [Lizenordnung](./docs/Lizenzordnung.md)
 - [](./)
 - [Mannschaftsmeldefomular](./assets/pdf/Formular_Mannschaftsmeldung_2025.xlsx)
 - [Regelung in den Statuten (Übersicht)](./assets/pdf/Regelungen.pdf)
