@@ -25,7 +25,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 - [](./)
 - [](./)
-- [Mannschaftsmeldefomular](./assets/pdf/Formular_Mannschaftsmeldung.pdf)
+- [Mannschaftsmeldefomular](./assets/pdf/Formular_Mannschaftsmeldung_2025.xlsx)
 - [Regelung in den Statuten (Übersicht)](./assets/pdf/Regelungen.pdf)
 - [Regelung Griffwechselsystem 2025](./assets/pdf/Regelung_Griffwechselsystem.pdf)
 - [](./)
