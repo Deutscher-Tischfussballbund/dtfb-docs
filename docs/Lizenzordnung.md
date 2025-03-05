@@ -13,7 +13,7 @@ date: {{ site.time | date: "%d-%m-%Y" }}
        Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
     </p>
     <p>
-        <a href="./../" target="_blank">Download als PDF</a><br />
+        <a href="./../assets/pdf/Lizenzordnung.pdf" target="_blank">Download als PDF</a><br />
     </p>
 </div>
 
