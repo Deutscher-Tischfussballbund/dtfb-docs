@@ -24,7 +24,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 # Bundesliga - für alle gültig
 
 - [Lizenordnung](./docs/Lizenzordnung.md)
-- [](./)
+- [Regularien der Senioren-Bundesligen](./docs/Regularien_der_Senioren_Bundesligen.md)
 - [Mannschaftsmeldefomular](./assets/pdf/Formular_Mannschaftsmeldung_2025.xlsx)
 - [Regelung in den Statuten (Übersicht)](./assets/pdf/Regelungen.pdf)
 - [Regelung Griffwechselsystem 2025](./assets/pdf/Regelung_Griffwechselsystem.pdf)
