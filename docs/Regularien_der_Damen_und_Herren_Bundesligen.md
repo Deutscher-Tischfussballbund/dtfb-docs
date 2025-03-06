@@ -76,8 +76,9 @@ desselben Jahres bzw. mit Ablauf des letzten Spieltages.
 5. Ein Verein darf für die Herren-Bundesligen/Damen-Bundesligen/Senioren-Bundesligen je nur eine Mannschaft pro Kategorie (Herren, Damen, Senioren) stellen.
 
 ---
+# Sanktionen
 
-# Nichtantreten einer Mannschaft 
+1. Nichtantreten einer Mannschaft 
 
 • Stehen einer Mannschaft am Spieltag nicht selbstverschuldet weniger als 6 Spieler zur 
 Verfügung, ist dies ein Nichtantreten. Über die Umstände, die dazu geführt haben, ist 
