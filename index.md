@@ -38,3 +38,51 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 - [BuLi Formate Herren 2025](./assets/pdf/Bundesligen_Herren.pdf)
 - [BuLi Formate Damen 2025](./assets/pdf/Bundesligen_Damen.pdf)
 - [BuLi Formate Senioren 2025](./assets/pdf/Bundesligen_Senioren.pdf)
+
+# DM/WM Qualifikation
+
+- [](./)
+- [](./)
+- [](./)
+
+# 1. Herren-Bundesliga
+
+- [](./)
+- [](./)
+- [](./)
+
+# 2. Herren-Bundesliga
+
+- [](./)
+- [](./)
+- [](./)
+
+# 3. Herren-Bundesliga
+
+- [](./)
+- [](./)
+- [](./)
+
+# 1. Damen-Bundesliga
+
+- [](./)
+- [](./)
+- [](./)
+
+# 2. Damen-Bundesliga
+
+- [](./)
+- [](./)
+- [](./)
+
+# 1. Senioren-Bundesliga
+
+- [](./)
+- [](./)
+- [](./)
+
+# 2. Senioren-Bundesliga
+
+- [](./)
+- [](./)
+- [](./)
