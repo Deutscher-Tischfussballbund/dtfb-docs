@@ -47,8 +47,8 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 # 1. Herren-Bundesliga
 
-- [](./assets/pdf/Ausschreibung_Herren_Bundesligen-Vorrunde.pdf)
-- [](./)
+- [Ausschreibung Herren Bundeliga-Vorrunde](./assets/pdf/Ausschreibung_Herren_Bundesligen-Vorrunde.pdf)
+- [Ausschreibung Herren Bundeliga- Hauptrunde](./assets/pdf/Ausschreibung_12Herren_Bundesliga-Hauptrunde.pdf)
 - [](./)
 
 # 2. Herren-Bundesliga
