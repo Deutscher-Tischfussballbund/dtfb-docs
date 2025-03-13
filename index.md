@@ -43,7 +43,7 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 - [](./)
 - [](./)
-- [](./)
+- [WM Qualifizierte 2025](./assets/pdf/WM_Qualifizierte_2025.pdf)
 
 # 1. Herren-Bundesliga
 
