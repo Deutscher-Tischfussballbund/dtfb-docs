@@ -53,8 +53,8 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 # 2. Herren-Bundesliga
 
-- [](./)
-- [](./)
+- [Ausschreibung Herren 2 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_Herren_2_Bundesligen-Vorrunde.pdf)
+- [Ausschreibung Herren 2 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_2_Herren_Bundesliga-Hauptrunde.pdf)
 - [](./)
 
 # 3. Herren-Bundesliga
