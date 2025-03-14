@@ -59,30 +59,30 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 # 3. Herren-Bundesliga
 
-- [](./)
-- [](./)
+- [Ausschreibung Herren 3 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_3_Herren_Bundesligen-Vorrunde.pdf)
+- [Ausschreibung Herren 3 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_3_Herren_Bundesliga-Hauptrunde.pdf)
 - [](./)
 
 # 1. Damen-Bundesliga
 
-- [](./)
-- [](./)
+- [Ausschreibung Damen 1 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_1_Damen_Bundesligen-Vorrunde.pdf)
+- [Ausschreibung Damen 1 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_Damen_1_Bundesligen-Hauptrunde.pdf)
 - [](./)
 
 # 2. Damen-Bundesliga
 
-- [](./)
-- [](./)
+- [Ausschreibung Damen 2 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_2_Damen_Bundesligen-Vorrunde.pdf)
+- [Ausschreibung Damen 2 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_2_Damen_Bundesligen-Hauptrunde.pdf)
 - [](./)
 
 # 1. Senioren-Bundesliga
 
-- [](./)
-- [](./)
+- [Ausschreibung Senioren 1 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_1_Senioren_2025_Vorrunde.pdf)
+- [Ausschreibung Senioren 1 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_1_Senioren_2025_Hauptrunde.pdf)
 - [](./)
 
 # 2. Senioren-Bundesliga
 
-- [](./)
-- [](./)
+- [Ausschreibung Senioren 2 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_2_Senioren_2025_Vorrunde.pdf)
+- [Ausschreibung Senioren 2 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_2_Senioren_2025_Hauptrunde.pdf)
 - [](./)
