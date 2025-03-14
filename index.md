@@ -1,3 +1,20 @@
+---
+title: "Dokumente"
+author: "![dtfb Logo](images/dtfb-logo.png)"
+date: {{ site.time | date: "%d-%m-%Y" }}
+---
+<div class="html-only" style="text-align: center;">
+    <div class="title" style="text-align: center;">
+        <img src="images/dtfb-logo.png" alt="DTFB Logo" style="display: block; margin: 0 auto;" />
+        **Dokumente des DTFB e. V.**
+    </div>
+
+    <p style="text-align: center;">
+       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
+    </p>
+
+---
+
 * TOC
 {:toc}
 
