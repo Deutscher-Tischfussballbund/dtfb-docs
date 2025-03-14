@@ -1,3 +1,8 @@
+* TOC
+{:toc}
+
+---
+
 # Verbandsdokumente
 
 - [Ehrenordnung](docs/ehrenordnung.md)
@@ -85,4 +90,42 @@ Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der IT
 
 - [Ausschreibung Senioren 2 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_2_Senioren_2025_Vorrunde.pdf)
 - [Ausschreibung Senioren 2 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_2_Senioren_2025_Hauptrunde.pdf)
+- [](./)
+
+# Herren-Regionalliga
+
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+
+# Damen-Regionalliga
+
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+
+# Vereinswesen
+
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+
+# Sonstige Dokumente
+
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
+- [](./)
 - [](./)
