@@ -1,28 +1,13 @@
----
+﻿---
 title: "Regularien der Damen- und Herren-Bundesligen"
 date: "{{ site.time | date: '%d.%m.%Y' }}"
 pdf: /assets/pdf/Regularien_der_Damen_und_Herren_Bundesligen.pdf
 ---
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/dtfb-logo.png" alt="DTFB Logo" style="display: block; margin: 0 auto;" />
-        Satzung des DTFB e. V.
-    </div>
 
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Regularien_der_Damen_und_Herren_Bundesligen.pdf" target="_blank">Download als PDF</a><br />
-    </p>
-</div>
-
----
 
 * TOC
 {:toc}
 
----
 
 # Allgemeines 
 
@@ -45,14 +30,10 @@ erstgenannte als Heim- und die zweitgenannte als Gastmannschaft fungiert. Für d
 Ergebnis einer Begegnung werden Mannschaftspunkte vergeben.  
 • Eine Begegnung besteht aus mehreren Segmenten (z.B. Doppel 1, Einzel 1).
 
----
-
 # Spieljahr und Spieltermine 
 
 Das Spieljahr beginnt am 1. Januar eines jeden Jahres und endet am 31. Dezember 
 desselben Jahres bzw. mit Ablauf des letzten Spieltages. 
-
----
 
 # Spieltische und Spielbälle  
 
@@ -65,8 +46,6 @@ desselben Jahres bzw. mit Ablauf des letzten Spieltages.
 2. Auf den Bundesligatischen wird der vom jeweiligen Tischhersteller für seine Tische vorgesehene offizielle Ball gespielt. Die eingesetzten Bälle haben in einem neuwertigen Zustand zu sein.  
 3. Der Einsatz von Zusatzstoffen auf der Spielfläche oder den Bällen ist nicht erlaubt.
 
----
-
 # Mannschaftsmeldung  
 
 1. An der Bundesliga des DTFB können ausschließlich Mannschaften teilnehmen, deren Verein einem DTFB-Landesverband als ordentliches Mitglied angehört und einen Lizenzvertrag mit der DTFL/DTFB geschlossen hat.  
@@ -75,7 +54,6 @@ desselben Jahres bzw. mit Ablauf des letzten Spieltages.
 4. Der Startplatz einer Mannschaft obliegt dem Verein. Eine Vereinsumbenennung bzw. eine Übertragung des Startplatzes auf einen anderen Verein ist nur gemäß den Vorgaben der Lizenzordnung möglich (Lizenzordnung 2.3.1). 
 5. Ein Verein darf für die Herren-Bundesligen/Damen-Bundesligen/Senioren-Bundesligen je nur eine Mannschaft pro Kategorie (Herren, Damen, Senioren) stellen.
 
----
 # Sanktionen
 
 1. Nichtantreten einer Mannschaft 
@@ -95,8 +73,6 @@ Mannschaft gemäß §11 der Gebührenordnung (GO) mit einer Ordnungsstrafe für
 Nichtantreten belegt. 
 • Im Falle eines selbstverschuldeten Nichtantretens wird zusätzlich die Lizenz nach 
 Lizenzordnung 3.5.3 entzogen. 
-
----
 
 # Spielerlaubnis und Spielerpass
 
@@ -160,8 +136,6 @@ auf der DTFB-Webseite einverstanden sein.
 • Alle Gebühren müssen auf dem Konto des DTFB eingegangen sein. 
 • Der Spieler muss auf dem Mannschaftsmeldebogen für den betreffenden Verein 
 enthalten sein.
-
----
 
 # Mannschaftsaufstellung
 
@@ -237,8 +211,6 @@ Mannschaftsführer einer Mannschaft werden mit Ordnungsstrafen und Sperren beleg
 liegt im Ermessen der Turnierleitung, über die Strafe zu entscheiden. Eine Ordnungsstrafe 
 sollte den Betrag von 150 Euro nicht übersteigen.
 
----
-
 # Spielmodus
 
 **Aktuelle Regeln:**
@@ -268,8 +240,6 @@ Mannschaften das komplette Spiel bestreiten
 an dem das Spiel startet oder die Ballauflage wählen. Das Team, das den zweiten Flip 
 verliert, bekommt die nicht gewählte Option. 
 
----
-
 #  Spielwertung  
 
 1. Gespielt werden Einzel- und Doppelspiele mit jeweils 7 Segmenten in Sechserschritten. 
@@ -295,13 +265,9 @@ Vorverlegung darf nur stattfinden, wenn die Mannschaften anwesend sind. Eine
 Veränderung des Spielbeginns muss auf der DTFB-Webseite erfasst und den Mannschaften 
 mitgeteilt werden.
 
----
-
 # Tabellen / Platzierung 
 
 Die Erstellung der Tabelle erfolgt nach Vorlage der Spielberichte durch die Turnierleitung.
-
----
 
 #  Protest und Einspruch 
 
@@ -324,8 +290,6 @@ entsprechenden Turnierleitungssitzung erzielt, so wird die Protest- bzw. Einspru
 erstattet. 
 
 7. Alle weiteren Einzelheiten sind im § 21 Schiedsgericht der Satzung geregelt.
-
----
 
 # Regelung des Auf- und Abstiegs 
 

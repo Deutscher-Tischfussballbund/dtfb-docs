@@ -1,24 +1,14 @@
----
+﻿---
 title: "Ehrenordnung des DTFB e.V."
 date: "18.10.2020"
+section_numbering: paragraph
 pdf: /assets/pdf/ehrenordnung.pdf
 ---
 
-# Ehrenordnung des DTFB e.V.
+* TOC
+{:toc}
 
-**Gültiger Stand: 18.10.2020**
-
----
-
-## Inhaltsverzeichnis
-
-1. [Ehrungen](#ehrungen)
-2. [Anträge](#anträge)
-3. [Inkrafttreten](#inkrafttreten)
-
----
-
-## §1 Ehrungen
+# Ehrungen
 
 Der DTFB kann in Anerkennung besonderer Verdienste um den Tischfußballsport folgende Ehrungen verleihen:
 
@@ -37,7 +27,7 @@ Der DTFB kann in Anerkennung besonderer Verdienste um den Tischfußballsport fol
 
 4. **Amt des Ehrenvorsitzenden**
 
-### Voraussetzungen für die Verleihung der Ehrennadel:
+## Voraussetzungen für die Verleihung der Ehrennadel:
 
 - **Bronze:** 20 Jahre ununterbrochene Tätigkeit
 - **Silber:** 25 Jahre ununterbrochene Tätigkeit
@@ -48,9 +38,7 @@ Der DTFB kann in Anerkennung besonderer Verdienste um den Tischfußballsport fol
 
 Der **Ehrenbrief** kann in Würdigung besonderer Verdienste um die Förderung des Tischfußballsports verliehen werden.
 
----
-
-## §2 Anträge
+# Anträge
 
 1. **Fristen:**
    - Anträge von Verbänden sind schriftlich bis spätestens **30. Juni** eines jeden Jahres bei der DTFB-Geschäftsstelle einzureichen.
@@ -63,13 +51,8 @@ Der **Ehrenbrief** kann in Würdigung besonderer Verdienste um die Förderung de
    - Das geschäftsführende Präsidium entscheidet nach Prüfung des Antrags über die Verleihung.
    - Auf Antrag des DTFB-Präsidiums können Personen mit besonderen Verdiensten durch die Mitgliederversammlung zu **Ehrenmitgliedern** oder **Ehrenvorsitzenden** ernannt werden.
 
----
-
-## §3 Inkrafttreten
+# Inkrafttreten
 
 1. Diese Ehrenordnung tritt mit sofortiger Wirkung in Kraft. Gleichzeitig tritt die bisherige Geschäftsordnung außer Kraft.
 2. Änderungen und Ergänzungen sind den Verbänden des DTFB unverzüglich mitzuteilen und treten zu diesem Zeitpunkt in Kraft.
-
----
-
 

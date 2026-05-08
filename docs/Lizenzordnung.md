@@ -1,26 +1,11 @@
----
+﻿---
 title: "Lizenzordnung"
 date: "{{ site.time | date: '%d.%m.%Y' }}"
 pdf: /assets/pdf/Lizenzordnung.pdf
 ---
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/dtfb-logo.png" alt="DTFB Logo" style="display: block; margin: 0 auto;" />
-        Satzung des DTFB e. V.
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Lizenzordnung.pdf" target="_blank">Download als PDF</a><br />
-    </p>
-</div>
 
 * TOC
 {:toc}
-
----
 
 # EINLEITUNG 
 
@@ -38,8 +23,6 @@ DTFB unterstützt die Tischfußball-Bundesligen als Partner.
 Die vorliegende Lizenzordnung regelt die Rechtsbeziehungen zwischen den teilnehmenden Vereinen 
 (Lizenznehmer) und der DTFL (Lizenzgeber) in Bezug auf die Teilnahmeberechtigung am Spielbetrieb 
 sowie hinsichtlich der Gesamtvermarktung der Tischfußball-Bundesliga. 
-
----
 
 # ALLGEMEINES 
 
@@ -85,8 +68,6 @@ dass mehr als 50 % der alten Mannschaft für die neue Mannschaft spielen.
 Weitere Voraussetzungen: - die Zustimmung beider Vereine, - die Zustimmung der betroffenen Landesverbände, - die Zustimmung der DTFL. 
 Der Antrag zur Übertragung der Teilnahmeberechtigung inkl. Anlagen ist dem Antrag auf 
 Lizenzerteilung beizufügen.
-
----
 
 # LIZENZIERUNGSVERFAHREN 
 
@@ -175,8 +156,6 @@ Mannschaftsnamen müssen folgende Anforderungen erfüllen:
 3.5.1. Die Lizenz erlischt ohne vorherige Ankündigung - mit Ablauf der Saison, für die sie erteilt ist - mit Auflösung der Liga, für welche sie gültig ist 
 3.5.2. Die Lizenz kann durch die DTFL entzogen werden, wenn - der Lizenznehmer seinen Pflichten aus dem Lizenzvertrag nicht nachgekommen ist
 
----
-
 # MARKETING 
 
 
@@ -222,8 +201,6 @@ Logos muss mit dem Originalzustand übereinstimmen. Die Größe des auf der Klei
 angebrachten DTFL-Logos muss 50 x 76 mm betragen und darf ausschließlich mittig auf dem 
 rechten Arm oder mittig im Nacken angebracht werden. Eine genaue Vorgabe wurde an die 
 Vereine verteilt und auf der DTFL Seite zum Download hinterlegt. 
-
----
 
 # BESONDERE BESTIMMUNGEN 
 

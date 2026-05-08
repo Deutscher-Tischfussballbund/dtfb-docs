@@ -1,27 +1,13 @@
----
+﻿---
 title: "Spielordnung des DTFB e.V."
 date: "29.04.2023"
 pdf: /assets/pdf/spielordnung.pdf
 ---
 
-# Spielordnung des DTFB e.V.
+* TOC
+{:toc}
 
-**Stand: 29. April 2023**
-
----
-
-## Inhaltsverzeichnis
-
-1. [Allgemeines](#allgemeines)
-2. [Organisation des Spielbetriebes](#organisation-des-spielbetriebes)
-3. [Richtlinien zum Spielbetrieb](#richtlinien-zum-spielbetrieb)
-4. [Internationale Meisterschaften und Vergleiche](#internationale-meisterschaften-und-vergleiche)
-5. [Änderungen der Spielordnung](#änderungen-der-spielordnung)
-6. [Inkrafttreten](#inkrafttreten)
-
----
-
-## Allgemeines
+# Allgemeines
 
 1. Der Spielbetrieb wird durch diese Spielordnung für alle Veranstaltungen des DTFB geregelt.
 2. Der DTFB ist Träger und Veranstalter der offiziellen Wettbewerbe, wie:
@@ -35,11 +21,9 @@ pdf: /assets/pdf/spielordnung.pdf
 5. Die Gesamtleitung des Spielbetriebs liegt beim Vizepräsident Sport und DTFL des DTFB.
 6. In den Landesverbänden sind die Sportwarte für den Spielbetrieb verantwortlich.
 
----
+# Organisation des Spielbetriebes
 
-## Organisation des Spielbetriebes
-
-### 1. Spielbetrieb in den Landesverbänden
+## 1. Spielbetrieb in den Landesverbänden
 
 1.1 Wettbewerbe der Landesverbände
 
@@ -57,7 +41,7 @@ pdf: /assets/pdf/spielordnung.pdf
 5. Der Austragungsmodus und die Qualifikationskriterien müssen klar definiert sein.
 6. Änderungen der Spielordnungen müssen dem Vizepräsident Sport und DTFL vor Inkrafttreten mitgeteilt werden.
 
-### 2. Spielbetrieb des Bundes
+## 2. Spielbetrieb des Bundes
 
 2.1 Wettbewerbe des DTFB
 
@@ -74,9 +58,7 @@ pdf: /assets/pdf/spielordnung.pdf
 2. Der Spielmodus wird vom Vizepräsident Sport und DTFL festgelegt.
 3. Die Sieger tragen den Titel „Deutscher Meister“ in ihrer Kategorie.
 
----
-
-## Richtlinien zum Spielbetrieb
+# Richtlinien zum Spielbetrieb
 
 1. **Allgemeines**
    - Die Saison beginnt am 01.01. und endet am 31.12.
@@ -92,9 +74,7 @@ pdf: /assets/pdf/spielordnung.pdf
 4. **Spielregeln**
    - Die gültigen Spielregeln der ITSF finden Anwendung.
 
----
-
-## Internationale Meisterschaften und Vergleiche
+# Internationale Meisterschaften und Vergleiche
 
 1. **Qualifikation**
    - Die Teilnahme an ITSF-Wettkämpfen erfolgt basierend auf den ITSF-Regelungen.
@@ -103,16 +83,12 @@ pdf: /assets/pdf/spielordnung.pdf
 2. **Nationalteams**
    - Die Berufung erfolgt durch ein Gremium aus Präsident, Vizepräsident Sport und DTFL, Sportdirektor, Nationalmannschaftskoordinator und Nationalcoach.
 
----
-
-## Änderungen der Spielordnung
+# Änderungen der Spielordnung
 
 1. Anträge auf Änderungen sind schriftlich einzureichen.
 2. Änderungen können durch das Präsidententreffen mit einfacher Mehrheit beschlossen werden.
 
----
-
-## Inkrafttreten
+# Inkrafttreten
 
 1. Diese Spielordnung tritt mit sofortiger Wirkung in Kraft.
 2. Änderungen sind den Verbänden unverzüglich mitzuteilen.

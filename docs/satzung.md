@@ -1,23 +1,9 @@
----
+﻿---
 title: "Satzung des DTFB e. V."
 date: "{{ site.time | date: '%d.%m.%Y' }}"
 section_numbering: paragraph
 pdf: /assets/pdf/satzung.pdf
 ---
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/dtfb-logo.png" alt="DTFB Logo" style="display: block; margin: 0 auto;" />
-        Satzung des DTFB e. V.
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/satzung.pdf" target="_blank">Download als PDF</a><br />
-        <a href="https://github.com/Deutscher-Tischfussballbund/dtfb-docs/blob/main/docs/DTFB-Satzung_20201010.md" target="_blank">GitHub Repository</a>
-    </p>
-</div>
 
 * TOC
 {:toc}
@@ -33,16 +19,12 @@ pdf: /assets/pdf/satzung.pdf
 
 **Gültiger Stand: 18.10.2020**
 
----
-
 ## Name, Rechtsform und Sitz
 
 Der Verein führt den Namen **„Deutscher Tischfussballbund e. V. (DTFB)“**.  
 Der Deutsche Tischfussballbund ist ein eingetragener Verein.  
 Er hat seinen Sitz in **65510 Hünstetten**.  
 Das Geschäftsjahr des Vereins ist das Kalenderjahr.
-
----
 
 ## Zweck
 
@@ -55,8 +37,6 @@ Zweck des Deutschen Tischfussballbundes ist die **Förderung des Tischfussballsp
 
 Der DTFB ist Mitglied des **ITSF** (International Table Soccer Federation) mit Sitz in Nantes, Frankreich.
 
----
-
 ## Aufgaben
 
 Der DTFB setzt sich für folgende Aufgaben ein:
@@ -66,8 +46,6 @@ Der DTFB setzt sich für folgende Aufgaben ein:
 3. Öffentlichkeitsarbeit zur Förderung des Tischfussballs.
 4. Mitwirkung bei der Gewährung von Zuschüssen für sportliche Zwecke.
 
----
-
 ## Gemeinnützigkeit
 
 Der Deutsche Tischfussballbund e.V. verfolgt ausschließlich und unmittelbar **gemeinnützige Zwecke**:
@@ -75,8 +53,6 @@ Der Deutsche Tischfussballbund e.V. verfolgt ausschließlich und unmittelbar **g
 - Er ist selbstlos tätig und verfolgt keine eigenwirtschaftlichen Interessen.
 - Mittel des Bundes dürfen nur für satzungsgemäße Zwecke verwendet werden.
 - Mitglieder erhalten keine Zuwendungen aus Mitteln des Verbandes.
-
----
 
 ## Mitgliedschaft
 
@@ -86,19 +62,13 @@ Die Mitgliedschaft besteht aus:
 2. **Korporativen Mitgliedern:** Gruppen, Organisationen oder Vereine, die die Ziele des Verbandes unterstützen.
 3. **Ehrenmitgliedern:** Personen, die sich um den Tischfussballsport verdient gemacht haben.
 
----
-
 ## Aufnahme
 
 Anträge auf Mitgliedschaft sind **schriftlich per Einschreiben** unter Vorlage der Satzung einzureichen. 
 
----
-
 ## Landestischfussballverbände und Interessengemeinschaften
 
 Regionale Zusammenschlüsse, deren Satzungen den Vorschriften des DTFB entsprechen müssen.
-
----
 
 ## Mitgliedschaftsrechte und Mitgliedschaftspflichten
 
@@ -113,21 +83,15 @@ Regionale Zusammenschlüsse, deren Satzungen den Vorschriften des DTFB entsprech
 - Wahrung der Interessen des Bundes.
 - Einhaltung der Satzung und Beschlüsse des DTFB.
 
----
-
 ## Mitgliedsbeiträge, Kautionen und Gebühren
 
 - Die Mitgliederversammlung setzt die Höhe der Beiträge fest.
 - Beiträge sind jährlich zu zahlen.
 
----
-
 ## Beendigung der Mitgliedschaft
 
 - Austrittserklärung mit 6 Monaten Frist.
 - Ausschluss bei Verstoß gegen die Satzung oder Beitragsrückstände.
-
----
 
 ## Organe des Bundes
 
@@ -149,25 +113,17 @@ Das Präsidium besteht aus:
 - **Geschäftsführendes Präsidium:** Präsident, stellvertretender Präsident, Geschäftsführer, Vizepräsident Finanzen.
 - **Erweitertes Präsidium:** Weitere Vizepräsidenten für spezielle Aufgaben.
 
----
-
 ## Präsidentenrunde
 
 Die Präsidentenrunde ist für die **Ordnungen** des DTFB zuständig.
-
----
 
 ## Ausschüsse und Beauftragte
 
 Das Präsidium kann Ausschüsse oder Beauftragte für spezifische Aufgaben berufen.
 
----
-
 ## Sportjugend
 
 Die Sportjugend vertritt die Interessen aller Mitglieder bis 18 Jahre. Sie entscheidet über Jugendmittel im Haushaltsplan.
-
----
 
 ## Schiedsgericht
 
@@ -185,13 +141,9 @@ Das Schiedsgericht entscheidet über:
 4. Punktabzüge und Spielwertungen
 5. Ausschlüsse
 
----
-
 ## Gremien
 
 Gremien können für spezielle Aufgaben gebildet werden. Beschlüsse erfolgen mit einfacher Mehrheit.
-
----
 
 ## Ordnungen
 
@@ -204,21 +156,15 @@ Die Ordnungen des DTFB sind:
 5. Ehrenordnung (EO)
 6. Schiedsrichterordnung (SRO)
 
----
-
 ## Auflösung
 
 Der Beschluss zur Auflösung des DTFB erfordert eine **Dreiviertelmehrheit** in der Mitgliederversammlung.
 
 Bei Auflösung wird das Vermögen des Vereins für gemeinnützige Zwecke verwendet.
 
----
-
 ## Schadenshaftung
 
 Die Haftung des Präsidiums ist auf Vorsatz und grobe Fahrlässigkeit beschränkt.
-
----
 
 ## Datenschutzerklärung
 
@@ -227,8 +173,6 @@ Der DTFB speichert personenbezogene Daten gemäß DSGVO und BDSG. Mitglieder hab
 1. Auskunft über gespeicherte Daten.
 2. Berichtigung, Sperrung oder Löschung unzulässiger Daten.
 3. Widerspruch gegen die Verarbeitung.
-
----
 
 ## Inkrafttreten
 
