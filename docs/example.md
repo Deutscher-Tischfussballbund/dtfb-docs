@@ -1,7 +1,7 @@
 ---
 title: "Example"
-author: "![BTFV Logo](images/btfv-logo.png)"
-date: {{ site.time | date: "%d-%m-%Y" }}
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+pdf: /assets/pdf/example.pdf
 ---
 
 <div class="html-only" style="text-align: center;">

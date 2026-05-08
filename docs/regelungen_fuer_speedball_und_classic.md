@@ -1,4 +1,8 @@
-![dtfb Logo](images/dtfb-logo.png)
+---
+title: "Regelungen für Speedball und Classic"
+date: "01.08.2016"
+pdf: /assets/pdf/regelungen_fuer_speedball_und_classic.pdf
+---
 
 # Regelungen für Speedball und Classic
 

@@ -1,7 +1,7 @@
 ---
 title: "Ranglistenturnierordnung"
-author: "![dtfb Logo](images/dtfb-logo.png)"
-date: {{ site.time | date: "%d-%m-%Y" }}
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+pdf: /assets/pdf/Ranglistenturnierordnung.pdf
 ---
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">

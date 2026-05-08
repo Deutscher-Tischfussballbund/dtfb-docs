@@ -1,5 +1,23 @@
-title: "Spielordnung"
-description: "Spielordnung des BTFV"
-theme: jekyll-theme-minimal
+title: "DTFB Dokumente"
+description: "Offizielle Verbandsdokumente des Deutschen Tischfußball-Bundes e.V."
+
 plugins:
   - jekyll-toc
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      template: dtfb
+
+exclude:
+  - scripts/
+  - temp/
+  - README.md
+  - LICENSE
+  - generate_pdf_local.sh

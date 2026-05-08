@@ -1,4 +1,8 @@
-![dtfb Logo](images/dtfb-logo.png)
+---
+title: "Leitfaden des Schiedsgerichts"
+date: "27.02.2021"
+pdf: /assets/pdf/leitfaden_des_schiedsgerichts.pdf
+---
 
 # Leitfaden des Schiedsgerichts
 

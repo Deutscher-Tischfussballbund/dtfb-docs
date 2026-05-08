@@ -1,4 +1,8 @@
-![dtfb Logo](images/dtfb-logo.png)
+---
+title: "Spielordnung des DTFB e.V."
+date: "29.04.2023"
+pdf: /assets/pdf/spielordnung.pdf
+---
 
 # Spielordnung des DTFB e.V.
 

@@ -1,4 +1,8 @@
-![dtfb Logo](images/dtfb-logo.png)
+---
+title: "Geschäftsordnung des DTFB e.V."
+date: "18.10.2020"
+pdf: /assets/pdf/geschaeftsordnung.pdf
+---
 
 # Geschäftsordnung des DTFB e.V.
 

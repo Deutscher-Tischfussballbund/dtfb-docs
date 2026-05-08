@@ -1,4 +1,8 @@
-![dtfb Logo](images/dtfb-logo.png)
+---
+title: "Schiedsrichterordnung des DTFB e.V."
+date: "01.02.2024"
+pdf: /assets/pdf/schiedsrichterordnung.pdf
+---
 
 # Schiedsrichterordnung des DTFB e.V.
 

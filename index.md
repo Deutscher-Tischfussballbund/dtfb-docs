@@ -1,132 +1,71 @@
-
-* TOC
-{:toc}
-
+---
+title: "DTFB Dokumente"
+subtitle: "Offizielle Verbandsdokumente des Deutschen Tischfußball-Bundes e.V."
 ---
 
-# / Verbandsdokumente
+## Verbandsdokumente
 
-- [Ehrenordnung](docs/ehrenordnung.md)
-- [Geschäftsordnung](docs/geschaeftsordnung.md)
-- [Leitfaden des Schiedsgerichts](docs/leitfaden_des_schiedsgerichts.md)
-- [Regelungen für Speedball und Classic](docs/regelungen_fuer_speedball_und_classic.md)
-- [Satzung](docs/satzung.md)
-- [Schiedsrichterordnung](docs/schiedsrichterordnung.md)
-- [Spielordnung](docs/spielordnung.md)
+| Dokument | PDF |
+|---|---|
+| [Satzung](docs/satzung.html) | [PDF](assets/pdf/satzung.pdf) |
+| [Spielordnung](docs/spielordnung.html) | [PDF](assets/pdf/spielordnung.pdf) |
+| [Schiedsrichterordnung](docs/schiedsrichterordnung.html) | [PDF](assets/pdf/schiedsrichterordnung.pdf) |
+| [Geschäftsordnung](docs/geschaeftsordnung.html) | [PDF](assets/pdf/geschaeftsordnung.pdf) |
+| [Ehrenordnung](docs/ehrenordnung.html) | [PDF](assets/pdf/ehrenordnung.pdf) |
+| [Regelungen für Speedball und Classic](docs/regelungen_fuer_speedball_und_classic.html) | [PDF](assets/pdf/regelungen_fuer_speedball_und_classic.pdf) |
+| [Leitfaden des Schiedsgerichts](docs/leitfaden_des_schiedsgerichts.html) | [PDF](assets/pdf/leitfaden_des_schiedsgerichts.pdf) |
 
+## Regelwerk
 
-# / Regelwerk
-Das weltweit einheitliche Regelwerk im Tischfußballsport findet sich auf der ITSF-Webseite.
+| Dokument | |
+|---|---|
+| [Vereinfachtes Regelwerk (ITSF)](assets/pdf/Regelwerk_vereinfacht.pdf) | |
 
-- [Vereinfachtes Regelwerk](./assets/pdf/Regelwerk_vereinfacht.pdf)
+## Turniere
 
-# / Turniere
+| Dokument | PDF |
+|---|---|
+| [Ranglistenturnierordnung](docs/Ranglistenturnierordnung.html) | [PDF](assets/pdf/Ranglistenturnierordnung.pdf) |
+| [Turnierregularien](assets/pdf/Turnierregularien.pdf) | |
+| [Challenger Ausschreibung Vorlage](assets/pdf/Challenger_Ausschreibung_Vorlage.pdf) | |
+| [Turnierkonzept für Landesverbände](assets/pdf/Turnierkonzept_fr_Landesverbaende.pdf) | |
 
-- [Ranglistenturnierordnung](docs/Ranglistenturnierordnung.md)
-- [Tunierregularien](./assets/pdf/Turnierregularien.pdf)
-- [Challenger Ausschreibung](./assets/pdf/Challenger_Ausschreibung_Vorlage.pdf)
-- [Tunierkonzept für Landesverbände](./assets/pdf/Turnierkonzept_fr_Landesverbaende.pdf)
+## Bundesliga
 
-# / Bundesliga - für alle gültig
+| Dokument | PDF |
+|---|---|
+| [Lizenzordnung](docs/Lizenzordnung.html) | [PDF](assets/pdf/Lizenzordnung.pdf) |
+| [Regularien der Damen- und Herren-Bundesligen](docs/Regularien_der_Damen_und_Herren_Bundesligen.html) | [PDF](assets/pdf/Regularien_der_Damen_und_Herren_Bundesligen.pdf) |
+| [Regularien der Senioren-Bundesligen](docs/Regularien_der_Senioren_Bundesligen.html) | [PDF](assets/pdf/Regularien_der_Senioren_Bundesligen.pdf) |
+| [Mannschaftsmeldeformular 2025](assets/pdf/Formular_Mannschaftsmeldung_2025.xlsx) | |
+| [Regelungen in den Statuten (Übersicht)](assets/pdf/Regelungen.pdf) | |
+| [Regelung Griffwechselsystem 2025](assets/pdf/Regelung_Griffwechselsystem.pdf) | |
+| [FAQ Trikot](assets/pdf/FAQ_Trikot.pdf) | |
+| [Spielplan Bundesliga Herren und Damen](assets/pdf/Bundesliga_Spielplan.pdf) | |
+| [Spielformular Senioren-Bundesliga](assets/pdf/Spielformular_SeniorenBundesliga.pdf) | |
 
-- [Lizenordnung](./docs/Lizenzordnung.md)
-- [Regularien der Senioren-Bundesligen](./docs/Regularien_der_Senioren_Bundesligen.md)
-- [Mannschaftsmeldefomular](./assets/pdf/Formular_Mannschaftsmeldung_2025.xlsx)
-- [Regelung in den Statuten (Übersicht)](./assets/pdf/Regelungen.pdf)
-- [Regelung Griffwechselsystem 2025](./assets/pdf/Regelung_Griffwechselsystem.pdf)
-- [](./)
-- [Regularien der Damen- und Herren-Bundesligen](./docs/Regularien_der_Damen_und_Herren_Bundesligen.md)
-- [FAQ Trikos PDF](./assets/pdf/FAQ_Trikot.pdf)
-- [dtfl badge 50x76m SVG](./assets/pdf/dtfl-badge-50x76mm.svg)
-- [dtfl badge 50x76mm PDF](./assets/pdf/dtfl-badge-50x76mm.pdf)
-- [Spielplan Bundesliga Herren und Damen](./assets/pdf/Bundesliga_Spielplan.pdf)
-- [Spielformular SeniorenBundesliga](./assets/pdf/Spielformular_SeniorenBundesliga.pdf)
-- [BuLi Formate Herren 2025](./assets/pdf/Bundesligen_Herren.pdf)
-- [BuLi Formate Damen 2025](./assets/pdf/Bundesligen_Damen.pdf)
-- [BuLi Formate Senioren 2025](./assets/pdf/Bundesligen_Senioren.pdf)
+## BuLi Formate 2025
 
-# / DM/WM Qualifikation
+| Liga | |
+|---|---|
+| [Herren](assets/pdf/Bundesligen_Herren.pdf) | |
+| [Damen](assets/pdf/Bundesligen_Damen.pdf) | |
+| [Senioren](assets/pdf/Bundesligen_Senioren.pdf) | |
 
-- [](./)
-- [](./)
-- [WM Qualifizierte 2025](./assets/pdf/WM_Qualifizierte_2025.pdf)
+## Ausschreibungen Bundesliga
 
-# / 1. Herren-Bundesliga
+| Liga | Vorrunde | Hauptrunde |
+|---|---|---|
+| 1. Herren-Bundesliga | [Vorrunde](assets/pdf/Ausschreibung_Herren_Bundesligen-Vorrunde.pdf) | [Hauptrunde](assets/pdf/Ausschreibung_12Herren_Bundesliga-Hauptrunde.pdf) |
+| 2. Herren-Bundesliga | [Vorrunde](assets/pdf/Ausschreibung_Herren_2_Bundesligen-Vorrunde.pdf) | [Hauptrunde](assets/pdf/Ausschreibung_2_Herren_Bundesliga-Hauptrunde.pdf) |
+| 3. Herren-Bundesliga | [Vorrunde](assets/pdf/Ausschreibung_3_Herren_Bundesligen-Vorrunde.pdf) | [Hauptrunde](assets/pdf/Ausschreibung_3_Herren_Bundesliga-Hauptrunde.pdf) |
+| 1. Damen-Bundesliga | [Vorrunde](assets/pdf/Ausschreibung_1_Damen_Bundesligen-Vorrunde.pdf) | [Hauptrunde](assets/pdf/Ausschreibung_Damen_1_Bundesligen-Hauptrunde.pdf) |
+| 2. Damen-Bundesliga | [Vorrunde](assets/pdf/Ausschreibung_2_Damen_Bundesligen-Vorrunde.pdf) | [Hauptrunde](assets/pdf/Ausschreibung_2_Damen_Bundesligen-Hauptrunde.pdf) |
+| 1. Senioren-Bundesliga | [Vorrunde](assets/pdf/Ausschreibung_1_Senioren_2025_Vorrunde.pdf) | [Hauptrunde](assets/pdf/Ausschreibung_1_Senioren_2025_Hauptrunde.pdf) |
+| 2. Senioren-Bundesliga | [Vorrunde](assets/pdf/Ausschreibung_2_Senioren_2025_Vorrunde.pdf) | [Hauptrunde](assets/pdf/Ausschreibung_2_Senioren_2025_Hauptrunde.pdf) |
 
-- [Ausschreibung Herren Bundeliga-Vorrunde](./assets/pdf/Ausschreibung_Herren_Bundesligen-Vorrunde.pdf)
-- [Ausschreibung Herren Bundeliga- Hauptrunde](./assets/pdf/Ausschreibung_12Herren_Bundesliga-Hauptrunde.pdf)
-- [](./)
+## DM/WM Qualifikation
 
-# / 2. Herren-Bundesliga
-
-- [Ausschreibung Herren 2 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_Herren_2_Bundesligen-Vorrunde.pdf)
-- [Ausschreibung Herren 2 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_2_Herren_Bundesliga-Hauptrunde.pdf)
-- [](./)
-
-# / 3. Herren-Bundesliga
-
-- [Ausschreibung Herren 3 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_3_Herren_Bundesligen-Vorrunde.pdf)
-- [Ausschreibung Herren 3 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_3_Herren_Bundesliga-Hauptrunde.pdf)
-- [](./)
-
-# / 1. Damen-Bundesliga
-
-- [Ausschreibung Damen 1 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_1_Damen_Bundesligen-Vorrunde.pdf)
-- [Ausschreibung Damen 1 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_Damen_1_Bundesligen-Hauptrunde.pdf)
-- [](./)
-
-# / 2. Damen-Bundesliga
-
-- [Ausschreibung Damen 2 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_2_Damen_Bundesligen-Vorrunde.pdf)
-- [Ausschreibung Damen 2 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_2_Damen_Bundesligen-Hauptrunde.pdf)
-- [](./)
-
-# / 1. Senioren-Bundesliga
-
-- [Ausschreibung Senioren 1 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_1_Senioren_2025_Vorrunde.pdf)
-- [Ausschreibung Senioren 1 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_1_Senioren_2025_Hauptrunde.pdf)
-- [](./)
-
-# / 2. Senioren-Bundesliga
-
-- [Ausschreibung Senioren 2 Bundesliga Vorrunde](./assets/pdf/Ausschreibung_2_Senioren_2025_Vorrunde.pdf)
-- [Ausschreibung Senioren 2 Bundesliga Hauptrunde](./assets/pdf/Ausschreibung_2_Senioren_2025_Hauptrunde.pdf)
-- [](./)
-
-# / Herren-Regionalliga
-
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-
-# / Damen-Regionalliga
-
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-
-# / Vereinswesen
-
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-
-# / Sonstige Dokumente
-
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
-- [](./)
+| Dokument | |
+|---|---|
+| [WM Qualifizierte 2025](assets/pdf/WM_Qualifizierte_2025.pdf) | |

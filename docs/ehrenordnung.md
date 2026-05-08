@@ -1,4 +1,8 @@
-![dtfb Logo](images/dtfb-logo.png)
+---
+title: "Ehrenordnung des DTFB e.V."
+date: "18.10.2020"
+pdf: /assets/pdf/ehrenordnung.pdf
+---
 
 # Ehrenordnung des DTFB e.V.
 

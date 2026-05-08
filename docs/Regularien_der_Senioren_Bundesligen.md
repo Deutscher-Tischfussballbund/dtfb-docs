@@ -1,7 +1,7 @@
 ---
-title: "Regularien der Damen- und Herren-Bundesligen"
-author: "![dtfb Logo](images/dtfb-logo.png)"
-date: {{ site.time | date: "%d-%m-%Y" }}
+title: "Regularien der Senioren-Bundesligen"
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+pdf: /assets/pdf/Regularien_der_Senioren_Bundesligen.pdf
 ---
 <div class="html-only" style="text-align: center;">
     <div class="title" style="text-align: center;">
