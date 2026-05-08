@@ -1,6 +1,6 @@
 ﻿---
 title: "Satzung des DTFB e. V."
-date: '{{ site.time | date: "%d.%m.%Y" }}'
+date: "08.05.2026"
 section_numbering: paragraph
 pdf: /assets/pdf/satzung.pdf
 ---
@@ -177,4 +177,3 @@ Der DTFB speichert personenbezogene Daten gemäß DSGVO und BDSG. Mitglieder hab
 ## Inkrafttreten
 
 Die Satzung wurde am **18. Oktober 2020** beschlossen und tritt mit der Eintragung ins Vereinsregister in Kraft.
-
