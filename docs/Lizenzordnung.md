@@ -1,6 +1,6 @@
 ﻿---
 title: "Lizenzordnung"
-date: '{{ site.time | date: "%d.%m.%Y" }}'
+date: "08.05.2026"
 section_numbering: arabic
 pdf: /assets/pdf/Lizenzordnung.pdf
 ---
