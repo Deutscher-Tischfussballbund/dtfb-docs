@@ -1,6 +1,6 @@
 ﻿---
 title: "Regularien der Senioren-Bundesligen"
-date: "{{ site.time | date: '%d.%m.%Y' }}"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
 pdf: /assets/pdf/Regularien_der_Senioren_Bundesligen.pdf
 ---
 
