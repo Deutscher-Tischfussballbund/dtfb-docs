@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Lizenzordnung</title>
+    
+    
+    
+    
+    
+        <meta name="theme-color" content="#f4f4f2">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Oswald:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/png" href="/staging/templates/dtfb/images/favicon.png">
+        <link rel="apple-touch-icon" href="/staging/templates/dtfb/images/logo.png">
+        <link rel="manifest" href="/staging/manifest.webmanifest">
+        <link rel="stylesheet" href="/staging/templates/shared/web.css?v=1778238118">
+        <link rel="stylesheet" href="/staging/templates/dtfb/web.css?v=1778238118">
+    
+</head>
+<body class=" template-dtfb">
+    
+        
+<header class="base-hero"></header>
+<script>
+(() => {
+    const initThemeToggle = () => {
+        const root = document.documentElement;
+        const toggle = document.querySelector('[data-theme-toggle]');
+        const icon = document.querySelector('[data-theme-icon]');
+        if (!toggle || !icon) return;
+
+        const SUN = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="12" y1="2.5" x2="12" y2="5.5"/><line x1="12" y1="18.5" x2="12" y2="21.5"/><line x1="2.5" y1="12" x2="5.5" y2="12"/><line x1="18.5" y1="12" x2="21.5" y2="12"/><line x1="4.5" y1="4.5" x2="6.8" y2="6.8"/><line x1="17.2" y1="17.2" x2="19.5" y2="19.5"/><line x1="17.2" y1="6.8" x2="19.5" y2="4.5"/><line x1="4.5" y1="19.5" x2="6.8" y2="17.2"/></g></svg>';
+        const MOON = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 14.5A8.5 8.5 0 1 1 9.5 3a7 7 0 0 0 11.5 11.5Z" fill="none" stroke="currentColor" stroke-width="2"/></svg>';
+        const AUTO = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>';
+
+        const getOsDark = () => window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+        const renderIcon = (mode) => {
+            icon.innerHTML = mode === 'dark' ? MOON : mode === 'auto' ? AUTO : SUN;
+        };
+
+        const updateThemeColor = () => {
+            const meta = document.querySelector('meta[name="theme-color"]');
+            if (!meta) return;
+            const color = getComputedStyle(root).getPropertyValue('--color-surface-page').trim();
+            if (color) meta.setAttribute('content', color);
+        };
+
+        let osMediaQuery = null;
+        const onOsChange = () => applyMode('auto');
+
+        const applyMode = (mode) => {
+            const visual = mode === 'auto' ? (getOsDark() ? 'dark' : 'light') : mode;
+            root.setAttribute('data-theme', visual);
+            toggle.setAttribute('aria-pressed', visual === 'dark' ? 'true' : 'false');
+            renderIcon(mode);
+            updateThemeColor();
+            if (osMediaQuery) { osMediaQuery.removeEventListener('change', onOsChange); osMediaQuery = null; }
+            if (mode === 'auto') {
+                osMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+                osMediaQuery.addEventListener('change', onOsChange);
+            }
+        };
+
+        const cycleMap = { light: 'dark', dark: 'auto', auto: 'light' };
+        const stored = localStorage.getItem('base-theme');
+        applyMode(stored === 'light' || stored === 'dark' || stored === 'auto' ? stored : 'auto');
+
+        toggle.addEventListener('click', () => {
+            const current = localStorage.getItem('base-theme') || 'auto';
+            const next = cycleMap[current] || 'light';
+            applyMode(next);
+            localStorage.setItem('base-theme', next);
+        });
+    };
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initThemeToggle);
+    } else {
+        initThemeToggle();
+    }
+})();
+</script>
+
+    
+    
+        
+        
+        
+        
+        
+        <div class="base-doc-heading">
+            <div class="base-doc-heading__top">
+                
+                <a class="base-doc-brand-link" href="/staging/">
+                    <svg class="base-doc-back-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="15 18 9 12 15 6"/>
+                    </svg>
+                
+                    <img class="base-doc-logo base-doc-logo--light" src="/staging/templates/dtfb/images/logo.png" alt="Logo">
+                    <img class="base-doc-logo base-doc-logo--dark" src="/staging/templates/dtfb/images/logo-dark.png" alt="Logo">
+                    <span class="base-doc-sitename">DTFB Dokumente</span>
+                
+                </a>
+                
+                <div class="base-doc-titles">
+                    <div class="base-doc-title">Lizenzordnung</div>
+                    
+                </div>
+                <div class="base-doc-actions">
+                    <div class="base-hero__links">
+                        
+                            <a href="/staging/assets/pdf/Lizenzordnung.pdf" target="_blank" rel="noopener">PDF</a>
+                        
+                        
+                    </div>
+                    
+                        <div class="base-doc-date">Stand: 08.05.2026</div>
+                    
+                </div>
+                <div class="base-toolbar">
+                    <button class="base-search-btn" type="button" data-search-open aria-label="Suche">
+                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                        </svg>
+                    </button>
+                    <div class="base-settings-wrap">
+                        <button class="base-settings-btn" type="button" data-settings-toggle aria-label="Einstellungen" aria-expanded="false">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="3"/>
+                                <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                            </svg>
+                        </button>
+                        <div class="base-settings-panel" data-settings-panel hidden>
+                            <div class="base-settings-row">
+                                <button class="base-settings-font-small" type="button" data-font-decrease aria-label="Schrift verkleinern">A</button>
+                                <input class="base-font-slider" type="range" min="0" max="4" step="1" value="2" data-font-slider aria-label="Schriftgröße">
+                                <button class="base-settings-font-large" type="button" data-font-increase aria-label="Schrift vergrößern">A</button>
+                            </div>
+                            <div class="base-settings-font-pct" data-font-pct aria-live="polite">100%</div>
+                            <div class="base-settings-row base-settings-search-row">
+                                <span class="base-settings-label">Suche</span>
+                                <button class="base-theme-toggle" type="button" data-search-open aria-label="Suche öffnen">
+                                    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                                </button>
+                            </div>
+                            <div class="base-settings-row">
+                                <span class="base-settings-label">Theme</span>
+                                <button class="base-theme-toggle" type="button" data-theme-toggle aria-label="Theme wechseln" aria-pressed="false">
+                                    <span class="base-theme-toggle__icon" data-theme-icon>
+                                        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                                            <circle cx="12" cy="12" r="5" fill="none" stroke="currentColor" stroke-width="2"/>
+                                            <g stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                                                <line x1="12" y1="2.5" x2="12" y2="5.5"/>
+                                                <line x1="12" y1="18.5" x2="12" y2="21.5"/>
+                                                <line x1="2.5" y1="12" x2="5.5" y2="12"/>
+                                                <line x1="18.5" y1="12" x2="21.5" y2="12"/>
+                                                <line x1="4.5" y1="4.5" x2="6.8" y2="6.8"/>
+                                                <line x1="17.2" y1="17.2" x2="19.5" y2="19.5"/>
+                                                <line x1="17.2" y1="6.8" x2="19.5" y2="4.5"/>
+                                                <line x1="4.5" y1="19.5" x2="6.8" y2="17.2"/>
+                                            </g>
+                                        </svg>
+                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <div class="wrapper">
+        <div class="html-only" style="text-align: center;">
+    <div class="title" style="text-align: center;">
+        <img src="images/dtfb-logo.png" alt="DTFB Logo" style="display: block; margin: 0 auto;" />
+        Satzung des DTFB e. V.
+    </div>
+
+    <p style="text-align: center;">
+       Zuletzt geändert am:  08-05-2026
+    </p>
+    <p>
+        <a href="./../assets/pdf/Lizenzordnung.pdf" target="_blank">Download als PDF</a><br />
+    </p>
+</div>
+
+<ul id="markdown-toc">
+  <li><a href="#einleitung" id="markdown-toc-einleitung">EINLEITUNG</a></li>
+  <li><a href="#allgemeines" id="markdown-toc-allgemeines">ALLGEMEINES</a>    <ul>
+      <li><a href="#bundesliga" id="markdown-toc-bundesliga">BUNDESLIGA</a></li>
+      <li><a href="#teilnahmerecht-vereine" id="markdown-toc-teilnahmerecht-vereine">TEILNAHMERECHT VEREINE</a></li>
+    </ul>
+  </li>
+  <li><a href="#lizenzierungsverfahren" id="markdown-toc-lizenzierungsverfahren">LIZENZIERUNGSVERFAHREN</a>    <ul>
+      <li><a href="#voraussetzungen-für-die-erteilung-der-lizenz" id="markdown-toc-voraussetzungen-für-die-erteilung-der-lizenz">VORAUSSETZUNGEN FÜR DIE ERTEILUNG DER LIZENZ</a></li>
+      <li><a href="#lizenzvertrag" id="markdown-toc-lizenzvertrag">LIZENZVERTRAG</a></li>
+      <li><a href="#finanzielle-verpflichtungen-der-lizenzvereine" id="markdown-toc-finanzielle-verpflichtungen-der-lizenzvereine">FINANZIELLE VERPFLICHTUNGEN DER LIZENZVEREINE</a></li>
+      <li><a href="#mannschaftsnamen" id="markdown-toc-mannschaftsnamen">MANNSCHAFTSNAMEN</a></li>
+      <li><a href="#erlöschen-entziehung-und-rückgabe-der-lizenz" id="markdown-toc-erlöschen-entziehung-und-rückgabe-der-lizenz">ERLÖSCHEN, ENTZIEHUNG UND RÜCKGABE DER LIZENZ</a></li>
+    </ul>
+  </li>
+  <li><a href="#marketing" id="markdown-toc-marketing">MARKETING</a>    <ul>
+      <li><a href="#vermarktung" id="markdown-toc-vermarktung">VERMARKTUNG</a></li>
+      <li><a href="#presse--und-öffentlichkeitsarbeit" id="markdown-toc-presse--und-öffentlichkeitsarbeit">PRESSE- UND ÖFFENTLICHKEITSARBEIT</a></li>
+      <li><a href="#werbung" id="markdown-toc-werbung">WERBUNG</a></li>
+      <li><a href="#kleidung" id="markdown-toc-kleidung">KLEIDUNG</a></li>
+    </ul>
+  </li>
+  <li><a href="#besondere-bestimmungen" id="markdown-toc-besondere-bestimmungen">BESONDERE BESTIMMUNGEN</a>    <ul>
+      <li><a href="#schadenersatzansprüche-gegen-die-dtfl" id="markdown-toc-schadenersatzansprüche-gegen-die-dtfl">SCHADENERSATZANSPRÜCHE GEGEN DIE DTFL</a></li>
+      <li><a href="#salvatorische-klausel" id="markdown-toc-salvatorische-klausel">SALVATORISCHE KLAUSEL</a></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h1 id="einleitung">EINLEITUNG</h1>
+
+<p>Seit Beginn der Saison 2011 sind die Tischfußball-Bundesligen organisatorisch aus dem Deutschen 
+Tischfußballbund (DTFB) ausgegliedert und in der Deutschen Tischfußball-Liga (DTFL) gebündelt. Die 
+DTFL vertritt die Interessen der Herren-, Damen- und Senioren-Bundesligen. Die Junioren-Bundesliga 
+liegt in der Verantwortung der Deutschen Tischfußball-Jugend.<br />
+Mit diesem Schritt folgte der DTFB dem Weg, den die Mehrzahl der etablierten Sportarten schon 
+gegangen ist. Die Autonomie in organisatorischen Dingen rund um die Bundesliga-Spielbetriebe soll für 
+die Flexibilität sorgen, die erforderlich ist, die kontinuierliche Entwicklung des Tischfußballsports auch 
+auf Vereinsebene beizubehalten oder im Idealfall sogar zu beschleunigen. 
+Mit Hilfe der Unterstützung der Bundesligapartner wird es der DTFL möglich sein, die positive 
+Darstellung der Tischfußball-Bundesligen zu steigern und damit den Bekanntheitsgrad zu erhöhen. Der 
+DTFB unterstützt die Tischfußball-Bundesligen als Partner. 
+Die vorliegende Lizenzordnung regelt die Rechtsbeziehungen zwischen den teilnehmenden Vereinen 
+(Lizenznehmer) und der DTFL (Lizenzgeber) in Bezug auf die Teilnahmeberechtigung am Spielbetrieb 
+sowie hinsichtlich der Gesamtvermarktung der Tischfußball-Bundesliga.</p>
+
+<hr />
+
+<h1 id="allgemeines">ALLGEMEINES</h1>
+
+<h2 id="bundesliga">BUNDESLIGA</h2>
+<p>2.1.1. Unter Ausschluss jeglicher Haftung für Unfälle und Diebstähle sowie anderer 
+Schadensfälle, sofern nicht abgeschlossene Versicherungen für den Schaden aufkommen, 
+erlässt die DTFL unter Berücksichtigung der Ordnungen des Deutschen Tischfußballbundes 
+(DTFB) die Durchführungsbestimmungen in der vorliegenden Fassung für den 
+Veranstaltungsbetrieb der Tischfußball-Bundesligen. 
+2.1.2. Über Austragungsform und Austragungsbedingungen der Tischfußball-Bundesligen 
+entscheidet die DTFL eigenständig. Die Abwicklung des Spielbetriebs übernimmt die DTFL 
+gemeinsam mit den von ihr nominierten Ausrichtern.<br />
+2.1.3. Für den Bundesligabetrieb sind diese Lizenzordnung, die Ordnungen und Regeln des 
+DTFB sowie erlassene Richtlinien der DTFL maßgeblich. Die Teilnehmer der Tischfußball
+Bundesligen sind verpflichtet, diese Regelungen als verbindlich anzuerkennen und zu 
+beachten.</p>
+
+<h2 id="teilnahmerecht-vereine">TEILNAHMERECHT VEREINE</h2>
+
+<p>2.2.1. An den Tischfußball-Bundesligen können nur Vereine teilnehmen, die einen Lizenzvertrag 
+gemäß Punkt 3.2. mit der DTFL geschlossen haben. 
+2.2.2. Teilnahmeberechtigt sind Vereine, die Mitglied in einem der DTFB-Landesverbände sind 
+und die mindestens eine weitere Mannschaft, die den identischen Mannschaftsnamen wie das 
+Bundesligateam trägt, im regionalen Ligabetrieb nach ITSF Regelwerk dieses 
+Landesverbandes gemeldet haben und daran aktiv teilnehmen.<br />
+Jede weitere Mannschaft eines Vereins im regionalen Ligabetrieb, die den Mannschaftsnamen 
+der Bundesligamannschaft trägt, ist per Nummerierung als untergeordnet zu kennzeichnen 
+(Bsp: Bundesliga: TFC Stadt; Landesliga: TFC Stadt 2; Verbandsliga: TFC Stadt 3).<br />
+Die Vereine müssen eingetragene Vereine (e.V.) sein sowie den Status der Gemeinnützigkeit 
+innehaben. Damit die Lizenz erteilt werden kann, benötigt die DTFL als Anlage zum Antrag 
+der Lizenzerteilung die entsprechenden Nachweise darüber. 
+2.2.3. Verzichtet ein Bundesligist nach Abschluss der Saison bzw. mit Abschluss der Meldefrist 
+auf sein Lizenzrecht oder wird ihm das Lizenzrecht in diesem Zeitraum gekündigt, verliert er 
+sein Lizenzrecht ersatzlos. 
+2.2.4. Tritt ein Bundesligist in der Laufenden Saison zu einem Spieltag nicht an verliert er seine 
+Lizenz und kann in der darauffolgenden Saison nicht an der Regionalliga bzw. der 
+Aufstiegsrunde teilnehmen. Eine Übertragung der Teilnahmeberechtigung auf einen solchen 
+Verein ist in dem betreffenden Jahr nicht möglich. 
+2.2.5. Eine Übertragung der Teilnahmeberechtigung auf einen anderen Verein inkl. der 
+Zugehörigkeit zur entsprechenden Liga ist möglich. Voraussetzungen für eine Übertragung 
+des Teilnahmerechts inkl. der Zugehörigkeit zur entsprechenden Liga sind, 
+dass mehr als 50 % der alten Mannschaft für die neue Mannschaft spielen. 
+Weitere Voraussetzungen: - die Zustimmung beider Vereine, - die Zustimmung der betroffenen Landesverbände, - die Zustimmung der DTFL. 
+Der Antrag zur Übertragung der Teilnahmeberechtigung inkl. Anlagen ist dem Antrag auf 
+Lizenzerteilung beizufügen.</p>
+
+<hr />
+
+<h1 id="lizenzierungsverfahren">LIZENZIERUNGSVERFAHREN</h1>
+
+<h2 id="voraussetzungen-für-die-erteilung-der-lizenz">VORAUSSETZUNGEN FÜR DIE ERTEILUNG DER LIZENZ</h2>
+
+<p>3.1.1. Voraussetzung für die Teilnahme an einer Tischfußball-Bundesliga ist die Lizenzerteilung 
+für die jeweilige Saison. Jeder Verein hat der DTFL bis zum 31. Dezember 2024 den 
+offiziellen Antrag auf Lizenzerteilung für seine Mannschaft als PDF an bundesliga@dtfb.de 
+einzureichen. 
+Nachfolgende Angaben und Kontaktdaten sind hierfür zwingend erforderlich: - Benennung des Lizenznehmers (Verein) - genaue Bezeichnung des Mannschaftsnamens gemäß Punkt 3.4. - Anschriften des Lizenznehmers (Name, Ort, Straße, Telefon, E-Mail) - ggf. abweichende Rechnungsanschrift - Team-Ansprechperson (Name, Vorname, Telefon mobil, E-Mail) 
+Die Team-Ansprechperson gewährleistet, dass E-Mails von einer Größe bis zu 5 MB 
+empfangen werden können.<br />
+Der Lizenznehmer hat sicherzustellen, dass die Kontaktdaten aktuell sind.<br />
+Änderungen sind der DTFL schnellstmöglich per E-Mail (bundesliga@dtfb.de) unaufgefordert 
+mitzuteilen.<br />
+3.1.2. Die Lizenz gilt für die jeweilige Saison. Sie wirkt jedoch zeitlich bis zur Erfüllung aller 
+Verpflichtungen darüber hinaus. 
+3.1.3. Durch sportliche Qualifikation erwirbt der Lizenznehmer das Recht zur 
+Lizenzverlängerung in der entsprechenden Liga für das jeweilige Folgejahr. 
+3.1.4. Der Lizenznehmer muss ein im Vereinsregister eingetragener Verein (e.V.) sein, den 
+Status der Gemeinnützigkeit innehaben und die entsprechenden Nachweise vorlegen 
+(Nachweis über Eintragung ins Vereinsregister und gültigen Freistellungsbescheid durch das 
+Finanzamt).</p>
+
+<h2 id="lizenzvertrag">LIZENZVERTRAG</h2>
+
+<p>3.2.1. Im Zuge der Lizenzerteilung hat der Antragsteller mit der DTFL einen für alle 
+Lizenznehmer gleich lautenden Lizenzvertrag geschlossen. 
+3.2.2. Der Lizenzvertrag regelt die Rechtsbeziehungen zwischen dem Lizenznehmer und der 
+DTFL in Bezug auf die Teilnahmeberechtigung an der Tischfußball-Bundesliga sowie 
+bestimmter 
+im 
+Lizenzvertrag 
+festgelegter 
+Bestimmungen 
+hinsichtlich 
+der 
+Gesamtvermarktung. 
+3.2.3. Mit Abschluss des Lizenzvertrages erkennt der Lizenznehmer die gültigen Satzungen und 
+Ordnungen der DTFL und des DTFB samt ihren Anhängen schriftlich an. 
+3.2.4. Der Lizenznehmer erklärt sich mit möglichen Dopingkontrollen durch ein dafür 
+bestimmtes Gremium einverstanden. 
+3.2.5. Der Lizenzantrag ist von einem vertretungsberechtigten Vorstandsmitglied des 
+Lizenznehmers zu unterzeichnen. Im Falle nicht vollständiger Einreichung der Unterlagen ist 
+eine einmalige Nachfrist von einer Woche zu setzen.
+3.2.6. Durch den Abschluss des Lizenzvertrages verpflichtet sich die DTFL, den 
+Wettkampfbetrieb der Tischfußball-Bundesliga nach den allgemein gültigen Regeln des 
+Sports zu organisieren und durchzuführen. Der Lizenznehmer verpflichtet sich, für die Dauer 
+des Lizenzvertrages an diesem Spielbetrieb mit einer wettbewerbstauglichen Mannschaft 
+unter Beachtung der in dieser Lizenzordnung sowie in den bestehenden Ordnungen 
+festgelegten Bedingungen teilzunehmen. 
+3.2.7. Der Vertrag ist von keiner der beiden Parteien vor Ablauf kündbar. Das Recht zur 
+Kündigung des Vertrages aus wichtigem Grunde bleibt unberührt. 
+3.2.8. Die DTFL ist berechtigt, den Vertrag aus wichtigem Grund mit sofortiger Wirkung zu 
+kündigen, wenn der Bundesligist einen schweren Vertragsverstoß bzw. einen schweren 
+Verstoß gegen die Regeln der sportlichen Fairness begangen hat. Die Kündigung des 
+Lizenzvertrages bewirkt das Erlöschen der Lizenz. Die Lizenzgebühr wird nicht erstattet.</p>
+
+<h2 id="finanzielle-verpflichtungen-der-lizenzvereine">FINANZIELLE VERPFLICHTUNGEN DER LIZENZVEREINE</h2>
+
+<p>Der Jahresbeitrag für die jeweilige Saison ist in der DTFB-Gebührenordnung geregelt. Der 
+Betrag wird nach erfolgter Lizenzerteilung in Rechnung gestellt und ist innerhalb von<br />
+20 Tagen zur Zahlung anzuweisen.</p>
+
+<h2 id="mannschaftsnamen">MANNSCHAFTSNAMEN</h2>
+
+<p>Der Mannschaftsname richtet sich nach dem Vereinsnamen. Eine einfache Identifizierung, zu 
+welchem Verein die Mannschaft gehört, muss gegeben sein. Zusätze im Mannschaftsnamen sind 
+möglich, müssen jedoch den Vereinssitz enthalten und von der DTFL genehmigt werden. Der 
+Mannschaftsname kann während der Saison nicht geändert werden. Ausnahmen sind 
+Sponsoren, die in den Teamnamen integriert werden. Die DTFL behält sich vor, 
+Mannschaftsnamen aus Gründen des Gesamtkonzepts der Tischfußball-Bundesligen sowie der 
+Außendarstellung und Gesamtvermarktung abzulehnen.</p>
+
+<p>Mannschaftsnamen müssen folgende Anforderungen erfüllen:</p>
+<ul>
+  <li>Herkunft (Ort des Vereinssitzes) muss genannt werden</li>
+  <li>maximal ein Sponsor darf im Namen erscheinen</li>
+  <li>Änderungen von Vereins- und Mannschaftsnamen sind mit der DTFL abzustimmen</li>
+</ul>
+
+<h2 id="erlöschen-entziehung-und-rückgabe-der-lizenz">ERLÖSCHEN, ENTZIEHUNG UND RÜCKGABE DER LIZENZ</h2>
+
+<p>3.5.1. Die Lizenz erlischt ohne vorherige Ankündigung - mit Ablauf der Saison, für die sie erteilt ist - mit Auflösung der Liga, für welche sie gültig ist 
+3.5.2. Die Lizenz kann durch die DTFL entzogen werden, wenn - der Lizenznehmer seinen Pflichten aus dem Lizenzvertrag nicht nachgekommen ist</p>
+
+<hr />
+
+<h1 id="marketing">MARKETING</h1>
+
+<h2 id="vermarktung">VERMARKTUNG</h2>
+
+<p>4.1.1. Die Lizenznehmer verpflichten sich, nachfolgende Leistungen für einen Liga- und /oder 
+Eventsponsor im Rahmen der Bundesligaspieltage zu erbringen: - Tragen offizieller DTFL-Meistershirts im Rahmen der Siegerehrung, sofern diese Shirts 
+von der DTFL gestellt werden - Teilnahme der Mannschaft an einem Fotoshooting im Rahmen eines Bundesligaspieltags</p>
+
+<h2 id="presse--und-öffentlichkeitsarbeit">PRESSE- UND ÖFFENTLICHKEITSARBEIT</h2>
+
+<p>Die Lizenznehmer verpflichten sich, der DTFL nachfolgende Leistungen für eine angemessene 
+Präsentation in der Öffentlichkeit zur Verfügung zu stellen. Diese sind als Grundlagen für die 
+Gesamtvermarktung und für die Akquise von Sponsoren erforderlich. 
+4.2.1. Betreibt der Verein eine eigene Homepage ist auf dieser als auch bei allen 
+Veröffentlichungen im Zusammenhang mit der jeweiligen Tischfußball-Bundesliga wie 
+Pressemeldungen, Sponsorenmappen etc. das aktuelle Logo der DTFL zu verwenden, das in 
+seiner aktuellen Version als Download auf der DTFL-Webseite sowie über die DTFL erhältlich 
+ist. 
+4.2.2. Sowohl auf der vereinseigenen Homepage als auch bei allen Veröffentlichungen im 
+Zusammenhang mit der Tischfußball-Bundesliga wie Pressemitteilungen, Sponsorenmappen 
+etc. ist das Wording „Tischfußball-Bundesliga“ mindestens 1 x pro Veröffentlichung 
+prominent zu kommunizieren. 
+4.2.3. Alle in den lokalen Medien erschienenen Artikel sind der DTFL-Pressestelle selbstständig 
+und unaufgefordert als PDF oder in qualitativ hochwertigem .jpg-Format zuzusenden.</p>
+
+<h2 id="werbung">WERBUNG</h2>
+
+<p>Werbung auf den Sportlern ist grundsätzlich gestattet, Werbung für Tabakwaren und 
+alkoholische Getränke ist nicht zugelassen. Ausnahme kann Werbung für Alkohol produzierende 
+Unternehmen sein (XYZ-Brauerei: ja, XYZ-Pilsener: nein). Dies gilt ebenfalls für die 
+Mannschaftsnamen. Über Ausnahmen entscheidet die DTFL nach Vorlage eines schriftlichen 
+Antrags des Lizenznehmers.</p>
+
+<h2 id="kleidung">KLEIDUNG</h2>
+
+<p>Das entsprechende Logo der DTFL ist auf den bei den Wettkämpfen getragenen Shirts in 
+gedruckter, gestickter oder in Form von Aufklebern aufzubringen. Das Erscheinungsbild des 
+Logos muss mit dem Originalzustand übereinstimmen. Die Größe des auf der Kleidung 
+angebrachten DTFL-Logos muss 50 x 76 mm betragen und darf ausschließlich mittig auf dem 
+rechten Arm oder mittig im Nacken angebracht werden. Eine genaue Vorgabe wurde an die 
+Vereine verteilt und auf der DTFL Seite zum Download hinterlegt.</p>
+
+<hr />
+
+<h1 id="besondere-bestimmungen">BESONDERE BESTIMMUNGEN</h1>
+
+<h2 id="schadenersatzansprüche-gegen-die-dtfl">SCHADENERSATZANSPRÜCHE GEGEN DIE DTFL</h2>
+
+<p>Schadenersatzansprüche gegen die DTFL, ihre Organe und das Schiedsgericht wegen ihres 
+Handelns aufgrund der aktuell gültigen Satzungen und Ordnungen der DTFL oder des DTFB sind 
+ausgeschlossen.<br />
+Dies gilt nicht, wenn ein Lizenznehmer oder ein/e Sportler/in nachweist, dass die Schädigung 
+vorsätzlich oder grob fahrlässig erfolgt ist, sowie dass der Bundesligist oder der/die Sportler/in 
+sämtliche Rechtsbehelfe zur Abwendung des Schadens ergriffen haben und der Geschädigte 
+nicht anderweitig Schadenersatz erlangen kann.</p>
+
+<h2 id="salvatorische-klausel">SALVATORISCHE KLAUSEL</h2>
+
+<p>Die Unwirksamkeit einzelner Bestimmungen dieser Ordnung hat nicht die Unwirksamkeit der 
+gesamten Ordnung zur Folge.</p>
+
+    </div>
+    
+    <!-- Suchleiste -->
+    <div id="base-search-bar" hidden role="search">
+        <input id="base-search-input" type="search" placeholder="Auf dieser Seite suchen…" aria-label="Suche" autocomplete="off">
+        <span id="base-search-count" aria-live="polite"></span>
+        <button id="base-search-prev" type="button" aria-label="Vorheriger Treffer">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        </button>
+        <button id="base-search-next" type="button" aria-label="Nächster Treffer">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+        </button>
+        <button id="base-search-close" type="button" aria-label="Suche schließen">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+    </div>
+
+    <!-- Safe-area Abdeckung (nur in PWA) -->
+    <div id="safe-area-cover"></div>
+
+    <!-- Scroll-Fortschrittsbalken -->
+    <div id="scroll-progress"></div>
+
+    <!-- Nach oben Button -->
+    <a href="#" id="back-to-top">Nach oben</a>
+
+    <!-- Staging-Banner -->
+    
+    
+    <div id="staging-banner">
+        Vorschau-Version – kein offizieller Stand
+    </div>
+    
+
+    <!-- Link-kopiert-Toast -->
+    <div id="base-toast" role="status" aria-live="polite">Link kopiert</div>
+
+    <script>
+        // Einstellungen-Panel
+        const settingsToggle = document.querySelector("[data-settings-toggle]");
+        const settingsPanel = document.querySelector("[data-settings-panel]");
+        if (settingsToggle && settingsPanel) {
+            settingsToggle.addEventListener("click", (e) => {
+                e.stopPropagation();
+                const open = !settingsPanel.hidden;
+                settingsPanel.hidden = open;
+                settingsToggle.setAttribute("aria-expanded", String(!open));
+            });
+            settingsPanel.addEventListener("click", (e) => { e.stopPropagation(); });
+            document.addEventListener("click", () => {
+                if (!settingsPanel.hidden) {
+                    settingsPanel.hidden = true;
+                    settingsToggle.setAttribute("aria-expanded", "false");
+                }
+            });
+        }
+
+        // Schriftgröße
+        const fontSteps = [0.70, 0.85, 1.0, 1.25, 1.50];
+        let fontIndex = parseInt(localStorage.getItem("fontIndex") ?? "2", 10);
+        const fontSlider = document.querySelector("[data-font-slider]");
+        const fontPct = document.querySelector("[data-font-pct]");
+        const fontDecrease = document.querySelector("[data-font-decrease]");
+        const fontIncrease = document.querySelector("[data-font-increase]");
+        const applyFontZoom = () => {
+            document.documentElement.style.setProperty("--font-zoom", fontSteps[fontIndex]);
+            if (fontSlider) {
+                fontSlider.value = fontIndex;
+                const pct = (fontIndex / (fontSteps.length - 1)) * 100;
+                fontSlider.style.setProperty("--slider-fill", pct + "%");
+            }
+            if (fontPct) fontPct.textContent = Math.round(fontSteps[fontIndex] * 100) + "%";
+            if (fontDecrease) fontDecrease.disabled = fontIndex === 0;
+            if (fontIncrease) fontIncrease.disabled = fontIndex === fontSteps.length - 1;
+        };
+        if (fontSlider) {
+            fontSlider.addEventListener("input", () => {
+                fontIndex = parseInt(fontSlider.value, 10);
+                localStorage.setItem("fontIndex", fontIndex);
+                applyFontZoom();
+            });
+        }
+        if (fontDecrease) {
+            fontDecrease.addEventListener("click", () => {
+                if (fontIndex > 0) { fontIndex--; localStorage.setItem("fontIndex", fontIndex); applyFontZoom(); }
+            });
+        }
+        if (fontIncrease) {
+            fontIncrease.addEventListener("click", () => {
+                if (fontIndex < fontSteps.length - 1) { fontIndex++; localStorage.setItem("fontIndex", fontIndex); applyFontZoom(); }
+            });
+        }
+        applyFontZoom();
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const buildV = '1778238118';
+            document.querySelectorAll('a[href]').forEach(a => {
+                const href = a.getAttribute('href');
+                if (!href || !href.match(/\.pdf(\?|$)/)) return;
+                if (!href.includes('?v=')) {
+                    a.setAttribute('href', href.replace(/\.pdf$/, '.pdf') + '?v=' + buildV);
+                }
+                a.setAttribute('target', '_blank');
+                a.setAttribute('rel', 'noopener');
+            });
+        });
+    </script>
+
+    <script>
+        const backToTopButton = document.getElementById("back-to-top");
+        const scrollProgress = document.getElementById("scroll-progress");
+
+        window.onscroll = function() {
+            const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+            const docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            scrollProgress.style.width = docHeight > 0 ? (scrollTop / docHeight * 100) + "%" : "0%";
+            backToTopButton.style.display = scrollTop > 200 ? "block" : "none";
+        };
+    </script>
+
+    <script>
+        const baseSlugify = (text) => text.toLowerCase()
+            .replace(/[^\w\s-]/g, "")
+            .trim()
+            .replace(/\s+/g, "-");
+
+        const baseCopyText = async (text) => {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                await navigator.clipboard.writeText(text);
+                return true;
+            }
+            const temp = document.createElement("textarea");
+            temp.value = text;
+            temp.setAttribute("readonly", "");
+            temp.style.position = "absolute";
+            temp.style.left = "-9999px";
+            document.body.appendChild(temp);
+            temp.select();
+            const success = document.execCommand("copy");
+            document.body.removeChild(temp);
+            return success;
+        };
+
+        let toastTimer = null;
+        const showCopyToast = () => {
+            const toast = document.getElementById("base-toast");
+            if (!toast) return;
+            clearTimeout(toastTimer);
+            toast.classList.add("base-toast--visible");
+            toastTimer = setTimeout(() => toast.classList.remove("base-toast--visible"), 2000);
+        };
+
+        const initHeadingLinks = () => {
+            const wrapper = document.querySelector(".wrapper");
+            if (!wrapper) return;
+            const headings = wrapper.querySelectorAll("h1, h2, h3, h4");
+
+            headings.forEach((heading) => {
+                if (heading.querySelector(".base-heading-link")) return;
+                let id = heading.getAttribute("id");
+                if (!id) {
+                    id = baseSlugify(heading.textContent || "section");
+                    let unique = id;
+                    let counter = 2;
+                    while (document.getElementById(unique)) {
+                        unique = `${id}-${counter++}`;
+                    }
+                    heading.setAttribute("id", unique);
+                }
+
+                const link = document.createElement("a");
+                link.className = "base-heading-link";
+                link.href = `#${id}`;
+                link.setAttribute("aria-label", "Link kopieren");
+                link.innerHTML = "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M10.5 13.5l3-3\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M7 17a4 4 0 0 1 0-5.66l2.34-2.34a4 4 0 0 1 5.66 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M17 7a4 4 0 0 1 0 5.66l-2.34 2.34a4 4 0 0 1-5.66 0\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>";
+
+                link.addEventListener("click", async (event) => {
+                    event.preventDefault();
+                    const url = `${window.location.origin}${window.location.pathname}#${id}`;
+                    await baseCopyText(url);
+                    history.replaceState(null, "", `#${id}`);
+                    showCopyToast();
+                });
+
+                heading.appendChild(link);
+            });
+        };
+
+        if (document.readyState === "loading") {
+            document.addEventListener("DOMContentLoaded", initHeadingLinks);
+        } else {
+            initHeadingLinks();
+        }
+    </script>
+
+    <script>
+        (() => {
+            const searchBar = document.getElementById("base-search-bar");
+            const searchInput = document.getElementById("base-search-input");
+            const searchCount = document.getElementById("base-search-count");
+            const btnPrev = document.getElementById("base-search-prev");
+            const btnNext = document.getElementById("base-search-next");
+            const btnClose = document.getElementById("base-search-close");
+            const openBtns = document.querySelectorAll("[data-search-open]");
+            const wrapper = document.querySelector(".wrapper");
+
+            if (!searchBar || !openBtns.length || !wrapper) return;
+
+            let marks = [];
+            let currentIndex = -1;
+
+            const clearMarks = () => {
+                wrapper.querySelectorAll("mark.base-search-mark").forEach(m => {
+                    const parent = m.parentNode;
+                    parent.replaceChild(document.createTextNode(m.textContent), m);
+                    parent.normalize();
+                });
+                marks = [];
+                currentIndex = -1;
+            };
+
+            const highlight = (query) => {
+                clearMarks();
+                if (!query) { searchCount.textContent = ""; return; }
+                const re = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi");
+                const walker = document.createTreeWalker(wrapper, NodeFilter.SHOW_TEXT, {
+                    acceptNode: n => {
+                        const tag = n.parentElement?.tagName;
+                        return (tag === "SCRIPT" || tag === "STYLE" || n.parentElement?.closest("mark"))
+                            ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT;
+                    }
+                });
+                const textNodes = [];
+                while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+                textNodes.forEach(node => {
+                    if (!re.test(node.textContent)) return;
+                    re.lastIndex = 0;
+                    const frag = document.createDocumentFragment();
+                    let last = 0, m;
+                    while ((m = re.exec(node.textContent)) !== null) {
+                        frag.appendChild(document.createTextNode(node.textContent.slice(last, m.index)));
+                        const mark = document.createElement("mark");
+                        mark.className = "base-search-mark";
+                        mark.textContent = m[0];
+                        frag.appendChild(mark);
+                        marks.push(mark);
+                        last = m.index + m[0].length;
+                    }
+                    frag.appendChild(document.createTextNode(node.textContent.slice(last)));
+                    node.parentNode.replaceChild(frag, node);
+                });
+
+                searchCount.textContent = marks.length ? `1 / ${marks.length}` : "Kein Treffer";
+                if (marks.length) { currentIndex = 0; goTo(0); }
+            };
+
+            // Sichtbare Viewport-Höhe (berücksichtigt virtuelle Tastatur via visualViewport)
+            const getVisibleHeight = () =>
+                window.visualViewport ? window.visualViewport.height : window.innerHeight;
+
+            const goTo = (idx) => {
+                marks.forEach((m, i) => m.classList.toggle("base-search-mark--active", i === idx));
+                searchCount.textContent = `${idx + 1} / ${marks.length}`;
+                const mark = marks[idx];
+                if (!mark) return;
+                const rect = mark.getBoundingClientRect();
+                const visibleH = getVisibleHeight();
+                const barH = searchBar.offsetHeight + 16;
+                // Mitte des sichtbaren Bereichs unterhalb der Suchleiste
+                const targetCenter = barH + (visibleH - barH) / 2;
+                const scrollY = window.scrollY + rect.top - targetCenter;
+                window.scrollTo({ top: scrollY, behavior: "smooth" });
+            };
+
+            const open = () => {
+                if (settingsPanel && !settingsPanel.hidden) {
+                    settingsPanel.hidden = true;
+                    document.querySelector("[data-settings-toggle]")?.setAttribute("aria-expanded", "false");
+                }
+                searchBar.hidden = false;
+                setTimeout(() => { searchInput.focus(); searchInput.select(); }, 50);
+            };
+
+            const close = () => {
+                searchBar.hidden = true;
+                clearMarks();
+                searchInput.value = "";
+                searchCount.textContent = "";
+            };
+
+            openBtns.forEach(btn => btn.addEventListener("click", open));
+            btnClose.addEventListener("click", close);
+            btnPrev.addEventListener("click", () => { if (marks.length) { currentIndex = (currentIndex - 1 + marks.length) % marks.length; goTo(currentIndex); } });
+            btnNext.addEventListener("click", () => { if (marks.length) { currentIndex = (currentIndex + 1) % marks.length; goTo(currentIndex); } });
+
+            let debounce;
+            searchInput.addEventListener("input", () => {
+                clearTimeout(debounce);
+                debounce = setTimeout(() => highlight(searchInput.value.trim()), 150);
+            });
+
+            searchInput.addEventListener("keydown", (e) => {
+                if (e.key === "Enter") { e.preventDefault(); if (marks.length) { currentIndex = (currentIndex + 1) % marks.length; goTo(currentIndex); } }
+                if (e.key === "Escape") close();
+            });
+
+            document.addEventListener("keydown", (e) => {
+                if ((e.ctrlKey || e.metaKey) && e.key === "f") { e.preventDefault(); open(); }
+                if (e.key === "Escape" && !searchBar.hidden) close();
+            });
+        })();
+    </script>
+</body>
+</html>
+

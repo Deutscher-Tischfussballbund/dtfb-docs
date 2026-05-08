@@ -1,0 +1,17 @@
+
+
+{
+  "name": "DTFB Dokumente",
+  "short_name": "DTFB Dokumente",
+  "display": "standalone",
+  "start_url": "/staging/",
+  "background_color": "#ffffff",
+  "theme_color": "#4a4a49",
+  "icons": [
+    {
+      "src": "/staging/templates/dtfb/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
