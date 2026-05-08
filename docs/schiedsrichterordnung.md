@@ -1,38 +1,23 @@
-![dtfb Logo](images/dtfb-logo.png)
-
-# Schiedsrichterordnung des DTFB e.V.
-
-**Stand: Februar 2024**
-
+﻿---
+title: "Schiedsrichterordnung des DTFB e.V."
+date: "01.02.2024"
+pdf: /assets/pdf/schiedsrichterordnung.pdf
 ---
 
-## Inhaltsverzeichnis
+* TOC
+{:toc}
 
-1. [Allgemeines](#allgemeines)
-2. [Schiedsrichterstatus](#schiedsrichterstatus)
-   - Assistant
-   - Regional
-   - National
-   - International
-3. [Mündliche Prüfung](#mündliche-prüfung)
-4. [Schiedsrichterausschuss](#schiedsrichterausschuss)
-5. [Schiedsrichtervergütung](#schiedsrichtervergütung)
-
----
-
-## 1. Allgemeines
+# 1. Allgemeines
 
 1. Handlungsempfehlungen oder Regeländerungen werden durch den Vorsitzenden des Schiedsrichterausschusses (VdS) kommuniziert.
 2. Der DTFB bietet ein flächendeckendes Angebot an Schiedsrichterausbildungen.
 3. Schiedsrichter übernehmen Verantwortung und verpflichten sich, Spiele zu leiten.
 
----
-
-## 2. Schiedsrichterstatus
+# 2. Schiedsrichterstatus
 
 Die Bezeichnungen folgen den Vorgaben des ITSF:
 
-### 2.1 Assistant
+## 2.1 Assistant
 
 1. **Schulung:**
    - Teilnahme an einer mehrstündigen Schulung (Aufwandsentschädigung: 20€).
@@ -44,7 +29,7 @@ Die Bezeichnungen folgen den Vorgaben des ITSF:
 4. **Beaufsichtigung:**
    - Assistant-Schiedsrichter werden nach Möglichkeit beaufsichtigt und erhalten Feedback.
 
-### 2.2 Regional
+## 2.2 Regional
 
 1. **Aufstieg:**
    - 30 dokumentierte Sätze als Zeit-Schiedsrichter.
@@ -54,7 +39,7 @@ Die Bezeichnungen folgen den Vorgaben des ITSF:
 3. **Nachweispflicht:**
    - Wiederholung der Prüfung erforderlich, wenn innerhalb von 2 Jahren kein Einsatz erfolgt.
 
-### 2.3 National
+## 2.3 National
 
 1. **Aufstieg:**
    - 70 dokumentierte Sätze als Hauptschiedsrichter und 30 auf ITSF-Turnieren.
@@ -62,7 +47,7 @@ Die Bezeichnungen folgen den Vorgaben des ITSF:
 2. **Einsatz:**
    - Uneingeschränkte Einsätze auf allen Turnieren des DTFB.
 
-### 2.4 International
+## 2.4 International
 
 1. **Aufstieg:**
    - 60 dokumentierte Sätze auf internationaler Ebene an 3 verschiedenen ITSF-Tischen.
@@ -70,24 +55,18 @@ Die Bezeichnungen folgen den Vorgaben des ITSF:
 2. **Einsatz:**
    - Keine Einschränkungen.
 
----
-
-## 3. Mündliche Prüfung
+# 3. Mündliche Prüfung
 
 - Die mündliche Prüfung erfolgt nach einem abgestimmten Fragenkatalog.
 
----
-
-## 4. Schiedsrichterausschuss
+# 4. Schiedsrichterausschuss
 
 1. **Vorsitzender des Schiedsrichterausschusses (VdS):**
    - Wird auf der DTFB-Mitgliederversammlung vorgeschlagen und für 2 Jahre gewählt.
 2. **Mitglieder:**
    - Jeder DTFB-Mitgliedsverband benennt ein Mitglied für den Schiedsrichterausschuss.
 
----
-
-## 5. Schiedsrichtervergütung
+# 5. Schiedsrichtervergütung
 
 1. **Vergütungsstufen:**
    - Zeitschiedsrichter: 1€/Satz/Team.
@@ -99,4 +78,3 @@ Die Bezeichnungen folgen den Vorgaben des ITSF:
 4. **Regionale Ligen und Mini-Challenger:**
    - Vergütung wird durch den zuständigen Landesverband geregelt.
 
----

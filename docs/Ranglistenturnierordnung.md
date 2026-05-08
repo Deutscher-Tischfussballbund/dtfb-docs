@@ -1,26 +1,11 @@
----
+﻿---
 title: "Ranglistenturnierordnung"
-author: "![dtfb Logo](images/dtfb-logo.png)"
-date: {{ site.time | date: "%d-%m-%Y" }}
+date: "{{ site.time | date: '%d.%m.%Y' }}"
+pdf: /assets/pdf/Ranglistenturnierordnung.pdf
 ---
-<div class="html-only" style="text-align: center;">
-    <div class="title" style="text-align: center;">
-        <img src="images/dtfb-logo.png" alt="DTFB Logo" style="display: block; margin: 0 auto;" />
-        Satzung des DTFB e. V.
-    </div>
-
-    <p style="text-align: center;">
-       Zuletzt geändert am:  {{ site.time | date: "%d-%m-%Y" }}
-    </p>
-    <p>
-        <a href="./../assets/pdf/Ranglistenturnierordnung.pdf" target="_blank">Download als PDF</a><br />
-    </p>
-</div>
 
 * TOC
 {:toc}
-
----
 
 #	Allgemeines
 
@@ -28,8 +13,6 @@ date: {{ site.time | date: "%d-%m-%Y" }}
 Ranglistenturniere zur Wertung für die offizielle Deutsche Tischfussballrangliste fest. Sie gilt als 
 Ergänzung der in der DTFB-Spielordnung festgelegten Regelungen und bietet eine 
 Orientierungshilfe für die Organisation. Geringfügige Abweichungen sind nach Absprache mit dem Vizepräsident Sport und DTFL möglich und in der Ausschreibung bekannt zu machen.  
-
----
 
 # Kategorien der Ranglistenturniere
 
@@ -39,8 +22,6 @@ Orientierungshilfe für die Organisation. Geringfügige Abweichungen sind nach A
  
  • 	DTFB-Ranglistenturniere 
 
----
-
 # Genehmigung  
 
 1.	Der Status eines Ranglistenturniers wird vom DTFB -als Zuständigem für die Deutsche Tischfussballrangliste vergeben.  
@@ -49,14 +30,10 @@ Turnierausrichtung an Mitgliedsvereine delegieren. Die Vergabe eines Ranglistent
 3.	Jeder Landesverband ist berechtigt, beliebig viele Challenger je Turnierjahr anzubieten. 
 4.	Weltranglistenturniere werden auch ohne gesonderten Antrag für die Ranglisten gewertet. Bei den Challengerturnieren gilt der beantragende Landesverband als Veranstalter.
 
----
-
 # Ankündigung
 
 1. 	Ranglistenturniere müssen mindestens 6 Wochen vor Ausrichtung als solche über die Webseite des DTFB (www.dtfb.de) mit den Login-Daten des jeweils zuständigen Landesverbandes beantragt werden. Eine vollständige Ausschreibung hat dem Antrag spätestens 4 Wochen vor Turnierstart beizuliegen. Unvollständige Anträge werden als „in Planung“ genehmigt. Der 
 Vizepräsident Sport und DTFL, der Ranglistenwart oder deren Vertreter entscheiden über die Vergabe innerhalb einer Woche. Die Bekanntmachung erfolgt unter Termine auf der DTFBWebseite.
-
----
 
 # Regeln
 
@@ -82,46 +59,32 @@ Marketinginteressen des DTFB in Widerspruch steht. Vereine/Spieler, die dem nich
 
 10.	Jeglicher Müll ist in dafür vorgesehenen Behältern zu entsorgen. Das Hinterlassen von Müll auf dem Boden oder sonstigen für den Müll nicht vorgesehenen Flächen ist verboten. Verstöße werden gemäß §11 (13) der GO geahndet. Im Wiederholungsfall ist eine Disqualifikation möglich.
 
----
-
 # Turnierbezeichnung  
 
 1.	Die Ranglistenturniere tragen folgende offizielle Bezeichnung:  
  	DTFB Challenger, ITSF Pro Tour, ITSF Masters, ITSF International, ITSF World Series, ITSF P4P *, P4P Open. Die Bezeichnung muss in der jeweiligen Ausschreibung zu finden sein.  
 2.	Abweichungen von dieser Regelung sind mit dem Vizepräsident Sport und DTFL im Vorfeld abzustimmen.
 
----
-
 # Teilnehmer  
 
 1. 	Die Teilnahme an DTFB-Ranglistenturnieren ist für aktive Verbandsmitglieder (DTFB/ITSF) möglich.  Ausnahmen von diesen Vorgaben müssen vom Vizepräsident Sport und DTFL oder dessen Vertreter genehmigt sein und in der Ausschreibung stehen. Der Ausrichter sorgt für die Einhaltung dieser Regelung.
-
----
 
 # Ergebnisse  
 
 1.	Die vollständigen Ergebnisse der Turniere sind spätestens am nächsten Tag nach Turnierende an den Ranglistenwart des DTFB  zu melden bzw. über die Webseite des DTFB  online einzupflegen.   
 2.	Für die Ausrichtung ist eine durch den DTFB genehmigte Turniersoftware zu nutzen. Die aktuell zulässigen Anwendungen sind in den Turnierregularien hinterlegt. 
 
----
-
 # Ranglisten  
 
 1. 	Die Ranglistenwertung und Punkteverteilung wird durch die Ranglistenkommission des DTFB für jede Saison festgelegt. Die genaue Funktionsweise der Ranglisten ist in den Turnierregularien nachzulesen
-
----
 
 # Verantwortung der Ausrichter  
 
 1. 	Die Ausrichter von DTFB-Ranglistenturnieren sind verpflichtet, die Interessen des DTFB zu fördern und alles zu unterlassen, wodurch das Ansehen des Tischfussballsports geschädigt werden könnte. Beschlüsse des DTFB sind einzuhalten und der Ausrichter wird den DTFB von jeglicher Art der Haftung freihalten. Durch Vergabe des Status „Deutsches Ranglistenturnier“ entstehen keinerlei Ansprüche gegenüber dem DTFB. 
 
----
-
 # Modus und Format der Turnierformate
 
 1. 	Der Modus, das Format, die Regeln, die Preise, die Organisationspauschale und Startgelder, so wie die weiteren Voraussetzungen für die Turnierformate sind in den Turnierregularien definiert. Abweichende Formate oder Regeln sind mit dem Vizepräsident Sport und DTFL im Vorfeld abzustimmen. 
-
----
 
 **BEGRIFFSERKLÄRUNG** 
 
