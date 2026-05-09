@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Regularien der Damen- und Herren-Bundesligen"
-date: "08.05.2026"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
 pdf: /assets/pdf/Regularien_der_Damen_und_Herren_Bundesligen.pdf
 ---
 
