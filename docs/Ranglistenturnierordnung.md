@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ranglistenturnierordnung"
 date: "08.05.2026"
 pdf: /assets/pdf/Ranglistenturnierordnung.pdf

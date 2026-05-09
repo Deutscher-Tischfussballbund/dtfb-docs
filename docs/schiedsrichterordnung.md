@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schiedsrichterordnung des DTFB e.V."
 date: "01.02.2024"
 pdf: /assets/pdf/schiedsrichterordnung.pdf

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Regularien der Senioren-Bundesligen"
 date: "08.05.2026"
 pdf: /assets/pdf/Regularien_der_Senioren_Bundesligen.pdf

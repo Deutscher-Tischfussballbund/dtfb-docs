@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Satzung des DTFB e. V."
 date: "08.05.2026"
 section_numbering: paragraph

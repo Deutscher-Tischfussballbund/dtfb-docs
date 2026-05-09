@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lizenzordnung"
 date: "08.05.2026"
 section_numbering: arabic

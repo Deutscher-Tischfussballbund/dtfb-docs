@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Leitfaden des Schiedsgerichts"
 date: "27.02.2021"
 section_numbering: paragraph

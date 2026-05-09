@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Geschäftsordnung des DTFB e.V."
 date: "18.10.2020"
 section_numbering: paragraph
