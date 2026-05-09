@@ -1,6 +1,6 @@
 ---
 title: "Ranglistenturnierordnung"
-date: "08.05.2026"
+date: "{{ site.time | date: '%d.%m.%Y' }}"
 pdf: /assets/pdf/Ranglistenturnierordnung.pdf
 ---
 

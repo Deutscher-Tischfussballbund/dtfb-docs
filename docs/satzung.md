@@ -1,6 +1,6 @@
 ---
 title: "Satzung des DTFB e. V."
-date: "08.05.2026"
+date: '{{ site.time | date: "%d.%m.%Y" }}'
 section_numbering: paragraph
 pdf: /assets/pdf/satzung.pdf
 ---
